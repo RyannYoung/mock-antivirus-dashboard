@@ -1,0 +1,4305 @@
+[
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.networkstack.tethering",
+    "packageName": "com.google.android.networkstack.tethering",
+    "processName": "com.android.networkstack.process",
+    "sourceDir": "/apex/com.android.tethering/priv-app/TetheringGoogle/TetheringGoogle.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.amazon.mShop.android.shopping",
+    "packageName": "com.amazon.mShop.android.shopping",
+    "processName": "com.amazon.mShop.android.shopping",
+    "sourceDir": "/data/app/~~VEwMzgUYE258KMThaXK4Mw==/com.amazon.mShop.android.shopping-qfI9PwXVlSBmbfyFQRNKjg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.provider.filterprovider",
+    "packageName": "com.samsung.android.provider.filterprovider",
+    "processName": "com.samsung.android.provider.filterprovider",
+    "sourceDir": "/system/app/FilterProvider/FilterProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.DataCreate",
+    "packageName": "com.sec.android.app.DataCreate",
+    "processName": "com.sec.android.app.DataCreate",
+    "sourceDir": "/system/app/AutomationTest_FB/AutomationTest_FB.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.cts.priv.ctsshim",
+    "packageName": "com.android.cts.priv.ctsshim",
+    "processName": "com.android.cts.priv.ctsshim",
+    "sourceDir": "/apex/com.android.apex.cts.shim/priv-app/CtsShimPriv/CtsShimPriv.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.smartswitchassistant",
+    "packageName": "com.samsung.android.smartswitchassistant",
+    "processName": "com.samsung.android.smartswitchassistant",
+    "sourceDir": "/system/priv-app/SmartSwitchAssistant/SmartSwitchAssistant.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.vsim.ericssonnsds.webapp",
+    "packageName": "com.sec.vsim.ericssonnsds.webapp",
+    "processName": "com.sec.vsim.ericssonnsds.webapp",
+    "sourceDir": "/system/priv-app/NSDSWebApp/NSDSWebApp.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.hellofresh.androidapp",
+    "packageName": "com.hellofresh.androidapp",
+    "processName": "com.hellofresh.androidapp",
+    "sourceDir": "/data/app/~~e3goKBuKK4lDWo36YkTvLg==/com.hellofresh.androidapp-zrcQB5tgNYsbIVjdT-kiDg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.android.app.setupwizardlegalprovider",
+    "packageName": "com.sec.android.app.setupwizardlegalprovider",
+    "processName": "com.sec.android.app.setupwizardlegalprovider",
+    "sourceDir": "/system/app/SetupWizardLegalProvider/SetupWizardLegalProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.youtube",
+    "packageName": "com.google.android.youtube",
+    "processName": "com.google.android.youtube",
+    "sourceDir": "/data/app/~~0G_ur6dTGbkg15j3qZyz7Q==/com.google.android.youtube-g8fEFiYqw0k-q-3ipAdLZw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.galaxyfinder",
+    "packageName": "com.samsung.android.app.galaxyfinder",
+    "processName": "com.samsung.android.app.galaxyfinder",
+    "sourceDir": "/system/priv-app/Finder/Finder.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.location.nsflp2",
+    "packageName": "com.sec.location.nsflp2",
+    "processName": "com.sec.location.nsflp2",
+    "sourceDir": "/system/priv-app/NSFusedLocation_v6.0/NSFusedLocation_v6.0.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.themestore",
+    "packageName": "com.samsung.android.themestore",
+    "processName": "com.samsung.android.themestore",
+    "sourceDir": "/data/app/~~olIr_SAMvcKKPusTqt3hAw==/com.samsung.android.themestore-HfWMP-s-JVNUzzApHJneOQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user/0/com.sec.android.app.chromecustomizations",
+    "packageName": "com.sec.android.app.chromecustomizations",
+    "processName": "com.sec.android.app.chromecustomizations",
+    "sourceDir": "/system/app/ChromeCustomizations/ChromeCustomizations.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.aodservice",
+    "packageName": "com.samsung.android.app.aodservice",
+    "processName": "com.samsung.android.app.aodservice",
+    "sourceDir": "/system/priv-app/AODService_v70/AODService_v70.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.cocktailbarservice",
+    "packageName": "com.samsung.android.app.cocktailbarservice",
+    "processName": "com.samsung.android.app.cocktailbarservice",
+    "sourceDir": "/system/priv-app/CocktailBarService_v3.2/CocktailBarService_v3.2.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.display.cutout.emulation.corner",
+    "packageName": "com.android.internal.display.cutout.emulation.corner",
+    "processName": "com.android.internal.display.cutout.emulation.corner",
+    "sourceDir": "/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.ext.services",
+    "packageName": "com.google.android.ext.services",
+    "processName": "com.google.android.ext.services",
+    "sourceDir": "/apex/com.android.extservices/priv-app/GoogleExtServices@SC/GoogleExtServices.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sony.songpal.mdr",
+    "packageName": "com.sony.songpal.mdr",
+    "processName": "com.sony.songpal.mdr",
+    "sourceDir": "/data/app/~~yFUtjsTF-WFEtGmius6cYA==/com.sony.songpal.mdr-dPdH7NeIYC_tcNe1bI9GJw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.display.cutout.emulation.double",
+    "packageName": "com.android.internal.display.cutout.emulation.double",
+    "processName": "com.android.internal.display.cutout.emulation.double",
+    "sourceDir": "/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.location.nfwlocationprivacy",
+    "packageName": "com.sec.location.nfwlocationprivacy",
+    "processName": "com.sec.location.nfwlocationprivacy",
+    "sourceDir": "/system/app/NfwLocationPrivacy/NfwLocationPrivacy.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.microsoft.appmanager",
+    "packageName": "com.microsoft.appmanager",
+    "processName": "com.microsoft.appmanager",
+    "sourceDir": "/data/app/~~Qa023nB7tkG0fMpDBGyHKw==/com.microsoft.appmanager-Jd8tD4JLRr_2XKAs1tUBiA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.providers.telephony",
+    "packageName": "com.android.providers.telephony",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/priv-app/SecTelephonyProvider/SecTelephonyProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.ve.vebgm",
+    "packageName": "com.sec.android.app.ve.vebgm",
+    "processName": "com.sec.android.app.ve.vebgm",
+    "sourceDir": "/data/app/~~Lp7UH9af46zizvH1zSSJqg==/com.sec.android.app.ve.vebgm-Le_nltbvQH2ch9x6jHKWcQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.android.app.parser",
+    "packageName": "com.sec.android.app.parser",
+    "processName": "com.sec.android.app.parser",
+    "sourceDir": "/system/app/DRParser/DRParser.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.dynsystem",
+    "packageName": "com.android.dynsystem",
+    "processName": "com.android.dynsystem",
+    "sourceDir": "/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.camerasideas.instashot",
+    "packageName": "com.camerasideas.instashot",
+    "processName": "com.camerasideas.instashot",
+    "sourceDir": "/data/app/~~1KLj-4JnCbL83DLU48EfXQ==/com.camerasideas.instashot-aBq8I8SrzYnmo-qBovNXdg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.app.kfa",
+    "packageName": "com.samsung.android.app.kfa",
+    "processName": "com.samsung.android.app.kfa",
+    "sourceDir": "/system/priv-app/KnoxAIFrameworkApp/KnoxAIFrameworkApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.networkstack",
+    "packageName": "com.samsung.android.networkstack",
+    "processName": "com.samsung.android.networkstack",
+    "sourceDir": "/product/app/NetworkStackOverlay/NetworkStackOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.googlequicksearchbox",
+    "packageName": "com.google.android.googlequicksearchbox",
+    "processName": "com.google.android.googlequicksearchbox",
+    "sourceDir": "/data/app/~~ORhqB6bNRT2NWcJ_n6YiFA==/com.google.android.googlequicksearchbox-BFonCeBAAusnhJnTqVR00A==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.calendar",
+    "packageName": "com.samsung.android.calendar",
+    "processName": "com.samsung.android.calendar",
+    "sourceDir": "/data/app/~~wUDp3UAZHG2tzjKSTzE40Q==/com.samsung.android.calendar-YTlAI5KzTjU55RInCEmtiA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.cellbroadcastservice",
+    "packageName": "com.google.android.cellbroadcastservice",
+    "processName": "com.android.networkstack.process",
+    "sourceDir": "/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastServiceModule@SC/GoogleCellBroadcastServiceModule.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/theredspy15.ltecleanerfoss",
+    "packageName": "theredspy15.ltecleanerfoss",
+    "processName": "theredspy15.ltecleanerfoss",
+    "sourceDir": "/data/app/~~N4wE1Vsjaj724ppXns65EQ==/theredspy15.ltecleanerfoss-4rFh8KIsHjUPi7wOlRXsWQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.calendar",
+    "packageName": "com.android.providers.calendar",
+    "processName": "com.android.providers.calendar",
+    "sourceDir": "/system/priv-app/SamsungCalendarProvider/SamsungCalendarProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.osp.app.signin",
+    "packageName": "com.osp.app.signin",
+    "processName": "com.osp.app.signin",
+    "sourceDir": "/data/app/~~-B0CKDAVShmFNdUxSYx4Ag==/com.osp.app.signin-YS5JFCr8n8_1HCDd5baNEQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.aremoji",
+    "packageName": "com.samsung.android.aremoji",
+    "processName": "com.samsung.android.aremoji",
+    "sourceDir": "/data/app/~~gDGYzCVKAoqOHAYfZnt3jg==/com.samsung.android.aremoji-XvslHvzPozP4niilnu4FEw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.clipboardsaveservice",
+    "packageName": "com.samsung.clipboardsaveservice",
+    "processName": "com.samsung.clipboardsaveservice",
+    "sourceDir": "/system/priv-app/ClipboardSaveService/ClipboardSaveService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.automation",
+    "packageName": "com.sec.automation",
+    "processName": "com.sec.automation",
+    "sourceDir": "/system/app/TetheringAutomation/TetheringAutomation.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.airviewdictionary",
+    "packageName": "com.samsung.android.service.airviewdictionary",
+    "processName": "com.samsung.android.service.airviewdictionary",
+    "sourceDir": "/system/priv-app/SmartEye/SmartEye.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.media",
+    "packageName": "com.android.providers.media",
+    "processName": "android.process.media",
+    "sourceDir": "/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.onetimeinitializer",
+    "packageName": "com.google.android.onetimeinitializer",
+    "processName": "com.google.android.onetimeinitializer",
+    "sourceDir": "/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.ext.shared",
+    "packageName": "com.google.android.ext.shared",
+    "processName": "com.google.android.ext.shared",
+    "sourceDir": "/system/app/GoogleExtShared/GoogleExtShared.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.systemui.navbar.gestural_wide_back",
+    "packageName": "com.android.internal.systemui.navbar.gestural_wide_back",
+    "processName": "com.android.internal.systemui.navbar.gestural_wide_back",
+    "sourceDir": "/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.wallpapercropper",
+    "packageName": "com.android.wallpapercropper",
+    "processName": "com.android.wallpapercropper",
+    "sourceDir": "/system/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.wallpaper.res",
+    "packageName": "com.samsung.android.wallpaper.res",
+    "processName": "com.samsung.android.wallpaper.res",
+    "sourceDir": "/system/priv-app/wallpaper-res/wallpaper-res.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.smartmirroring",
+    "packageName": "com.samsung.android.smartmirroring",
+    "processName": "com.samsung.android.smartmirroring",
+    "sourceDir": "/system/app/SmartMirroring/SmartMirroring.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.skms.android.agent",
+    "packageName": "com.skms.android.agent",
+    "processName": "com.skms.android.agent",
+    "sourceDir": "/system/priv-app/SKMSAgent/SKMSAgent.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.thetileapp.tile",
+    "packageName": "com.thetileapp.tile",
+    "processName": "com.thetileapp.tile",
+    "sourceDir": "/data/app/~~VWDnmYS1V6idQIOyMWAuTA==/com.thetileapp.tile-GZJigEgKcjIpter_hu6oyQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.mapsagent",
+    "packageName": "com.samsung.android.mapsagent",
+    "processName": "com.samsung.android.mapsagent",
+    "sourceDir": "/system/app/MAPSAgent/MAPSAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.safetyassurance",
+    "packageName": "com.sec.android.app.safetyassurance",
+    "processName": "com.sec.android.app.safetyassurance",
+    "sourceDir": "/system/priv-app/SendHelpMessage/SendHelpMessage.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.incallui",
+    "packageName": "com.samsung.android.incallui",
+    "processName": "com.samsung.android.incallui",
+    "sourceDir": "/system/priv-app/SamsungInCallUI/SamsungInCallUI.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.knox.containercore",
+    "packageName": "com.samsung.android.knox.containercore",
+    "processName": "com.samsung.android.knox.containercore",
+    "sourceDir": "/system/priv-app/KnoxCore/KnoxCore.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.tools.netgel.netxpro",
+    "packageName": "com.tools.netgel.netxpro",
+    "processName": "com.tools.netgel.netxpro",
+    "sourceDir": "/data/app/~~sGMLcZ_wq61MkO4fCYif_Q==/com.tools.netgel.netxpro-xM6P_tzbb5y4YdNzNlNNOA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.livedrawing",
+    "packageName": "com.samsung.android.service.livedrawing",
+    "processName": "com.samsung.android.service.livedrawing",
+    "sourceDir": "/system/app/LiveDrawing/LiveDrawing.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.service.tagservice",
+    "packageName": "com.samsung.android.service.tagservice",
+    "processName": "com.samsung.android.service.tagservice",
+    "sourceDir": "/system/priv-app/HashTagService/HashTagService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.kidsinstaller",
+    "packageName": "com.samsung.android.kidsinstaller",
+    "processName": "com.samsung.android.kidsinstaller",
+    "sourceDir": "/system/app/KidsHome_Installer/KidsHome_Installer.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.factory.camera",
+    "packageName": "com.sec.factory.camera",
+    "processName": "com.sec.factory.camera",
+    "sourceDir": "/system/app/FactoryCameraFB/FactoryCameraFB.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.phone.overlay.common",
+    "packageName": "com.samsung.phone.overlay.common",
+    "processName": "com.samsung.phone.overlay.common",
+    "sourceDir": "/product/overlay/SemTelephony_RIL.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.usbsettings",
+    "packageName": "com.sec.usbsettings",
+    "processName": "com.sec.usbsettings",
+    "sourceDir": "/system/app/USBSettings/USBSettings.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.example.device_info",
+    "packageName": "com.example.device_info",
+    "processName": "com.example.device_info",
+    "sourceDir": "/data/app/~~vUMziShv5JBODAur3rVUsg==/com.example.device_info-gQvWN5Ta6zmCQvMTWCmBHA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/au.gov.dhs.expressplus.medicare",
+    "packageName": "au.gov.dhs.expressplus.medicare",
+    "processName": "au.gov.dhs.expressplus.medicare",
+    "sourceDir": "/data/app/~~lD-TdxFeXEEG0Z4WM-G98A==/au.gov.dhs.expressplus.medicare-Pb81SrERjaFxnXlwOB8OGw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.easysetup",
+    "packageName": "com.samsung.android.easysetup",
+    "processName": "com.samsung.android.easysetup",
+    "sourceDir": "/data/app/~~6ui9sIEern8QiC2S60E7kA==/com.samsung.android.easysetup-pg_5unmZGvBtWrWinlRKmQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.externalstorage",
+    "packageName": "com.android.externalstorage",
+    "processName": "com.android.externalstorage",
+    "sourceDir": "/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.aware.service",
+    "packageName": "com.samsung.android.aware.service",
+    "processName": "com.samsung.android.aware.service",
+    "sourceDir": "/system/app/AllShareAware/AllShareAware.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.easyonehand",
+    "packageName": "com.sec.android.easyonehand",
+    "processName": "com.sec.android.easyonehand",
+    "sourceDir": "/system/app/EasyOneHand3/EasyOneHand3.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.factory",
+    "packageName": "com.sec.factory",
+    "processName": "com.sec.factory",
+    "sourceDir": "/system/priv-app/DeviceTest/DeviceTest.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user/0/com.android.htmlviewer",
+    "packageName": "com.android.htmlviewer",
+    "processName": "com.android.htmlviewer",
+    "sourceDir": "/system/app/SecHTMLViewer/SecHTMLViewer.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.vtcamerasettings",
+    "packageName": "com.samsung.android.vtcamerasettings",
+    "processName": "com.samsung.android.vtcamerasettings",
+    "sourceDir": "/data/app/~~lekR0dC3oj6roaNDtf5EBg==/com.samsung.android.vtcamerasettings-nSeUv8o2wEATykeWxrAMNw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.whatsapp",
+    "packageName": "com.whatsapp",
+    "processName": "com.whatsapp",
+    "sourceDir": "/data/app/~~S2JYQG3vtFtmc6K7relrRQ==/com.whatsapp-7-8K-VU66cU2MW-hRWZCag==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.companiondevicemanager",
+    "packageName": "com.android.companiondevicemanager",
+    "processName": "com.android.companiondevicemanager",
+    "sourceDir": "/system/app/CompanionDeviceManager/CompanionDeviceManager.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.mms.service",
+    "packageName": "com.android.mms.service",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/priv-app/MmsService/MmsService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.rubin.app",
+    "packageName": "com.samsung.android.rubin.app",
+    "processName": "com.samsung.android.rubin.app",
+    "sourceDir": "/data/app/~~iTpMT7QhQodg7Cr4JMDwrA==/com.samsung.android.rubin.app-16cM_8XE6npZNq4QT-HYAw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.docs.editors.sheets",
+    "packageName": "com.google.android.apps.docs.editors.sheets",
+    "processName": "com.google.android.apps.docs.editors.sheets",
+    "sourceDir": "/data/app/~~znoCB2USOSuFQS6Rb44cAw==/com.google.android.apps.docs.editors.sheets-v8MA6rBCxJXFF5KUs1uWtQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.downloads",
+    "packageName": "com.android.providers.downloads",
+    "processName": "android.process.media",
+    "sourceDir": "/system/priv-app/SecDownloadProvider/SecDownloadProvider.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.authenticator2",
+    "packageName": "com.google.android.apps.authenticator2",
+    "processName": "com.google.android.apps.authenticator2",
+    "sourceDir": "/data/app/~~MRVMpj1EJ-tPX_-c04krqQ==/com.google.android.apps.authenticator2-tDIKNephv2pEEkuiPgv4Cg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.diotek.sec.lookup.dictionary",
+    "packageName": "com.diotek.sec.lookup.dictionary",
+    "processName": "com.diotek.sec.lookup.dictionary",
+    "sourceDir": "/system/app/DictDiotekForSec/DictDiotekForSec.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.systemui.auto_generated_rro_product__",
+    "packageName": "com.android.systemui.auto_generated_rro_product__",
+    "processName": "com.android.systemui.auto_generated_rro_product__",
+    "sourceDir": "/product/overlay/SystemUI__auto_generated_rro_product.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.messaging",
+    "packageName": "com.google.android.apps.messaging",
+    "processName": "com.google.android.apps.messaging",
+    "sourceDir": "/data/app/~~6NzUvGIIjqKB3Ir_2JvRug==/com.google.android.apps.messaging-BwJhrlKMY1y1whTCoTqF9g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.android.cover.ledcover",
+    "packageName": "com.sec.android.cover.ledcover",
+    "processName": "com.sec.android.cover.ledcover",
+    "sourceDir": "/system/priv-app/LedCoverService/LedCoverService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.easyMover.Agent",
+    "packageName": "com.sec.android.easyMover.Agent",
+    "processName": "com.sec.android.easyMover.Agent",
+    "sourceDir": "/system/app/SmartSwitchAgent/SmartSwitchAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.google.android.networkstack.tethering.overlay",
+    "packageName": "com.google.android.networkstack.tethering.overlay",
+    "processName": "com.google.android.networkstack.tethering.overlay",
+    "sourceDir": "/vendor/overlay/TetheringOverlay/TetheringOverlay.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.alltrails.alltrails",
+    "packageName": "com.alltrails.alltrails",
+    "processName": "com.alltrails.alltrails",
+    "sourceDir": "/data/app/~~piyAkuMYsVLUj4Tnkd1Q0w==/com.alltrails.alltrails-ezvqASB32lezt04xuoaaOQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.mdx.quickboard",
+    "packageName": "com.samsung.android.mdx.quickboard",
+    "processName": "com.samsung.android.mdx.quickboard",
+    "sourceDir": "/system/priv-app/Quickboard/Quickboard.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.systemui.onehanded.gestural",
+    "packageName": "com.android.internal.systemui.onehanded.gestural",
+    "processName": "com.android.internal.systemui.onehanded.gestural",
+    "sourceDir": "/product/overlay/OneHandedModeGestural/OneHandedModeGesturalOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.wsomacp",
+    "packageName": "com.wsomacp",
+    "processName": "com.wsomacp",
+    "sourceDir": "/system/priv-app/OmaCP/OmaCP.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.discord",
+    "packageName": "com.discord",
+    "processName": "com.discord",
+    "sourceDir": "/data/app/~~3uFElg3djUBFURAtIULK5g==/com.discord-Mc7aZk-d3EI7R9-qe-zGHw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.faceservice",
+    "packageName": "com.samsung.faceservice",
+    "processName": "com.samsung.faceservice",
+    "sourceDir": "/system/priv-app/FaceService/FaceService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.visualars",
+    "packageName": "com.samsung.android.visualars",
+    "processName": "com.samsung.android.visualars",
+    "sourceDir": "/data/app/~~YxvUU4LMYKkmmyGVKzKJRA==/com.samsung.android.visualars-hcVBvy1KMjuQZfakvfM9sQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.gpuwatchapp",
+    "packageName": "com.samsung.gpuwatchapp",
+    "processName": "com.samsung.gpuwatchapp",
+    "sourceDir": "/system/priv-app/GpuWatchApp/GpuWatchApp.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user/0/com.netflix.partner.activation",
+    "packageName": "com.netflix.partner.activation",
+    "processName": "com.netflix.partner.activation",
+    "sourceDir": "/system/app/Netflix_activationCommon/Netflix_activationCommon.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "9",
+    "dataDir": "/data/user/0/com.monotype.android.font.foundation",
+    "packageName": "com.monotype.android.font.foundation",
+    "processName": "com.monotype.android.font.foundation",
+    "sourceDir": "/system/app/Foundation/Foundation.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.widgetapp.easymodecontactswidget",
+    "packageName": "com.sec.android.widgetapp.easymodecontactswidget",
+    "processName": "com.sec.android.widgetapp.easymodecontactswidget",
+    "sourceDir": "/system/app/EasymodeContactsWidget81/EasymodeContactsWidget81.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.email.provider",
+    "packageName": "com.samsung.android.email.provider",
+    "processName": "com.samsung.android.email.provider",
+    "sourceDir": "/data/app/~~-7I-rJXiM2PbhtmiMgKC2A==/com.samsung.android.email.provider-zM7WKYMn6s4BSOCh0a8vow==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.knox.kpecore",
+    "packageName": "com.samsung.android.knox.kpecore",
+    "processName": "com.samsung.android.knox.kpecore",
+    "sourceDir": "/system/priv-app/KPECore/KPECore.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.knox.pushmanager",
+    "packageName": "com.samsung.android.knox.pushmanager",
+    "processName": "com.samsung.android.knox.pushmanager",
+    "sourceDir": "/system/priv-app/KnoxPushManager/KnoxPushManager.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.factorykeystring",
+    "packageName": "com.sec.android.app.factorykeystring",
+    "processName": "com.sec.android.app.factorykeystring",
+    "sourceDir": "/system/priv-app/DeviceKeystring/DeviceKeystring.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.samsungapps",
+    "packageName": "com.sec.android.app.samsungapps",
+    "processName": "com.sec.android.app.samsungapps",
+    "sourceDir": "/data/app/~~Gzax6JguMVjDZMMRGZZs_w==/com.sec.android.app.samsungapps-fd66TTnLDx6soHKef0oLYw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user_de/0/com.sec.android.emergencymode.service",
+    "packageName": "com.sec.android.emergencymode.service",
+    "processName": "com.sec.android.emergencymode.service",
+    "sourceDir": "/system/app/EmergencyModeService/EmergencyModeService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.configupdater",
+    "packageName": "com.google.android.configupdater",
+    "processName": "com.google.android.configupdater",
+    "sourceDir": "/product/priv-app/ConfigUpdater/ConfigUpdater.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.wlantest",
+    "packageName": "com.sec.android.app.wlantest",
+    "processName": "com.sec.android.app.wlantest",
+    "sourceDir": "/system/app/WlanTest/WlanTest.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.accessibility.talkback",
+    "packageName": "com.samsung.android.accessibility.talkback",
+    "processName": "com.samsung.android.accessibility.talkback",
+    "sourceDir": "/data/app/~~7vmTg66QkMV2iAc3rh2S8w==/com.samsung.android.accessibility.talkback--DrpAL2Ijm9mPsU4OOtRbg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.providers.media.module",
+    "packageName": "com.google.android.providers.media.module",
+    "processName": "com.google.android.providers.media.module",
+    "sourceDir": "/apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@SC/MediaProviderGoogle.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.smartfpsadjuster",
+    "packageName": "com.sec.android.smartfpsadjuster",
+    "processName": "com.sec.android.smartfpsadjuster",
+    "sourceDir": "/system/priv-app/IntelligentDynamicFpsService/IntelligentDynamicFpsService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.permissioncontroller",
+    "packageName": "com.google.android.overlay.modules.permissioncontroller",
+    "processName": "com.google.android.overlay.modules.permissioncontroller",
+    "sourceDir": "/product/overlay/GooglePermissionControllerOverlay.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.github.android",
+    "packageName": "com.github.android",
+    "processName": "com.github.android",
+    "sourceDir": "/data/app/~~crZqqDwqj__jiPQHTPs4Lg==/com.github.android-CJsfy_MYkx57zIc5QKEuXw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.settings.bixby",
+    "packageName": "com.samsung.android.app.settings.bixby",
+    "processName": "com.samsung.android.app.settings.bixby",
+    "sourceDir": "/system/priv-app/SettingsBixby/SettingsBixby.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.app.billing",
+    "packageName": "com.sec.android.app.billing",
+    "processName": "com.sec.android.app.billing",
+    "sourceDir": "/data/app/~~Ysg74-UldiNAKE0uXBKUnQ==/com.sec.android.app.billing-gh36TcIVWwr8I7ZYjqcBOw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "dataDir": "/data/user/0/com.anishu.homebudget.full",
+    "packageName": "com.anishu.homebudget.full",
+    "processName": "com.anishu.homebudget.full",
+    "sourceDir": "/data/app/~~xZ6LWzzoy2FdMHcsG2GSVQ==/com.anishu.homebudget.full-6Ln2hdxM4ICkZBW652G8eA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.epdgtestapp",
+    "packageName": "com.sec.epdgtestapp",
+    "processName": "com.sec.epdgtestapp",
+    "sourceDir": "/system/priv-app/SmartEpdgTestApp/SmartEpdgTestApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.game.gamehome",
+    "packageName": "com.samsung.android.game.gamehome",
+    "processName": "com.samsung.android.game.gamehome",
+    "sourceDir": "/system/priv-app/GameHome/GameHome.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.desktoplauncher",
+    "packageName": "com.sec.android.app.desktoplauncher",
+    "processName": "com.sec.android.app.desktoplauncher",
+    "sourceDir": "/system/priv-app/KnoxDesktopLauncher/KnoxDesktopLauncher.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.wifi.p2paware.resources",
+    "packageName": "com.samsung.android.wifi.p2paware.resources",
+    "processName": "com.samsung.android.wifi.p2paware.resources",
+    "sourceDir": "/system/app/P2pAwareOverlay/P2pAwareOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.smartwidget",
+    "packageName": "com.samsung.android.app.smartwidget",
+    "processName": "com.samsung.android.app.smartwidget",
+    "sourceDir": "/system/priv-app/SmartWidget/SmartWidget.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.uwbtest",
+    "packageName": "com.sec.android.app.uwbtest",
+    "processName": "com.sec.android.app.uwbtest",
+    "sourceDir": "/system/app/UwbTest/UwbTest.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.daemonapp",
+    "packageName": "com.sec.android.daemonapp",
+    "processName": "com.sec.android.daemonapp",
+    "sourceDir": "/system/app/SamsungWeather/SamsungWeather.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.ar.core",
+    "packageName": "com.google.ar.core",
+    "processName": "com.google.ar.core",
+    "sourceDir": "/data/app/~~vyTRf2b50Yzl4-x0s5K6mA==/com.google.ar.core-ljEgx4IVV5c2jodE88YWOw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.sve",
+    "packageName": "com.sec.sve",
+    "processName": "com.sec.sve",
+    "sourceDir": "/system/app/sveservice/sveservice.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.downloads.ui",
+    "packageName": "com.android.providers.downloads.ui",
+    "processName": "android.process.media",
+    "sourceDir": "/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.android.vending",
+    "packageName": "com.android.vending",
+    "processName": "com.android.vending",
+    "sourceDir": "/data/app/~~Tb4OvoOOVIo6q5x1x2popg==/com.android.vending-UvVrjfNJpX4TLa10u8w9SA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.pacprocessor",
+    "packageName": "com.android.pacprocessor",
+    "processName": "com.android.pacprocessor",
+    "sourceDir": "/system/app/PacProcessor/PacProcessor.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.simappdialog",
+    "packageName": "com.android.simappdialog",
+    "processName": "com.android.simappdialog",
+    "sourceDir": "/system/app/SimAppDialog/SimAppDialog.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.knox.attestation",
+    "packageName": "com.samsung.android.knox.attestation",
+    "processName": "com.samsung.android.knox.attestation",
+    "sourceDir": "/system/priv-app/EnhancedAttestationAgent/EnhancedAttestationAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.systemui.bixby2",
+    "packageName": "com.samsung.systemui.bixby2",
+    "processName": "com.samsung.systemui.bixby2",
+    "sourceDir": "/system/priv-app/SystemUIBixby2/SystemUIBixby2.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.secsoundpicker",
+    "packageName": "com.samsung.android.secsoundpicker",
+    "processName": "com.samsung.android.secsoundpicker",
+    "sourceDir": "/system/priv-app/SecSoundPicker/SecSoundPicker.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.incall.contentprovider",
+    "packageName": "com.samsung.android.incall.contentprovider",
+    "processName": "com.samsung.android.incall.contentprovider",
+    "sourceDir": "/system/priv-app/CallContentProvider/CallContentProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.internal.systemui.navbar.sec_gestural",
+    "packageName": "com.samsung.internal.systemui.navbar.sec_gestural",
+    "processName": "com.samsung.internal.systemui.navbar.sec_gestural",
+    "sourceDir": "/product/overlay/NavigationBarModeSamsungGestural/NavigationBarModeSamsungGesturalOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.microsoft.skydrive",
+    "packageName": "com.microsoft.skydrive",
+    "processName": "com.microsoft.skydrive",
+    "sourceDir": "/data/app/~~jECzHXZsB6BQJSOHcU9_hw==/com.microsoft.skydrive-vdNJ8CRSHu-eURsh4UR6fA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.sume.nn.service",
+    "packageName": "com.samsung.android.sume.nn.service",
+    "processName": "com.samsung.android.sume.nn.service",
+    "sourceDir": "/system/priv-app/SumeNNService/SumeNNService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.display.cutout.emulation.hole",
+    "packageName": "com.android.internal.display.cutout.emulation.hole",
+    "processName": "com.android.internal.display.cutout.emulation.hole",
+    "sourceDir": "/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.display.cutout.emulation.tall",
+    "packageName": "com.android.internal.display.cutout.emulation.tall",
+    "processName": "com.android.internal.display.cutout.emulation.tall",
+    "sourceDir": "/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.app.soundalive",
+    "packageName": "com.sec.android.app.soundalive",
+    "processName": "com.sec.android.app.soundalive",
+    "sourceDir": "/system/priv-app/SoundAlive_S/SoundAlive_S.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.gamepass",
+    "packageName": "com.gamepass",
+    "processName": "com.gamepass",
+    "sourceDir": "/data/app/~~csmkRo-HqAOkk17Wy44bkQ==/com.gamepass-GnooetOaIQ1DeQEU_DK0cQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.privateshare",
+    "packageName": "com.samsung.android.privateshare",
+    "processName": "com.samsung.android.privateshare",
+    "sourceDir": "/data/app/~~3esesSzud3s9PwEHnD5F2Q==/com.samsung.android.privateshare-1Yn-pFN74PUTslGdPxMsDg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user/0/com.sec.android.provider.badge",
+    "packageName": "com.sec.android.provider.badge",
+    "processName": "com.sec.android.provider.badge",
+    "sourceDir": "/system/priv-app/BadgeProvider_N/BadgeProvider_N.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.certinstaller",
+    "packageName": "com.android.certinstaller",
+    "processName": "com.android.certinstaller",
+    "sourceDir": "/system/app/CertInstaller/CertInstaller.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.carrierconfig",
+    "packageName": "com.android.carrierconfig",
+    "processName": "com.android.carrierconfig",
+    "sourceDir": "/system/system_ext/priv-app/CarrierConfig/CarrierConfig.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.watchmanager",
+    "packageName": "com.samsung.android.app.watchmanager",
+    "processName": "com.samsung.android.app.watchmanager",
+    "sourceDir": "/data/app/~~SrPUpAu9gRUZaJvITxh4Mw==/com.samsung.android.app.watchmanager-WLjpx-J1tskGVeY08pA91A==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.knox.containeragent",
+    "packageName": "com.samsung.android.knox.containeragent",
+    "processName": "com.samsung.android.knox.containeragent",
+    "sourceDir": "/system/priv-app/ContainerAgent3/ContainerAgent3.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.systemui.navbar.threebutton",
+    "packageName": "com.android.internal.systemui.navbar.threebutton",
+    "processName": "com.android.internal.systemui.navbar.threebutton",
+    "sourceDir": "/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.SMT",
+    "packageName": "com.samsung.SMT",
+    "processName": "com.samsung.SMT",
+    "sourceDir": "/data/app/~~1OCdOoQ2-nvdEooxPL8kDw==/com.samsung.SMT-eKw0Nx7WcdsdfXvrCZmnRw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.cmh",
+    "packageName": "com.samsung.cmh",
+    "processName": "com.samsung.cmh:CMH",
+    "sourceDir": "/system/priv-app/CMHProvider/CMHProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.mlp",
+    "packageName": "com.samsung.mlp",
+    "processName": "com.samsung.mlp",
+    "sourceDir": "/system/priv-app/MediaLearningPlatform/MediaLearningPlatform.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.rcs",
+    "packageName": "com.samsung.rcs",
+    "processName": "com.samsung.rcs",
+    "sourceDir": "/system/app/RcsSettings/RcsSettings.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/system",
+    "packageName": "android",
+    "processName": "system",
+    "sourceDir": "/system/framework/framework-res.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.hotwordenrollment.xgoogle",
+    "packageName": "com.android.hotwordenrollment.xgoogle",
+    "permission": "android.permission.MANAGE_VOICE_KEYPHRASES",
+    "processName": "com.android.hotwordenrollment.xgoogle",
+    "sourceDir": "/product/priv-app/HotwordEnrollmentXGoogleEx3CORTEXM4/HotwordEnrollmentXGoogleEx3CORTEXM4.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.wcmurlsnetworkstack",
+    "packageName": "com.samsung.android.wcmurlsnetworkstack",
+    "processName": "com.samsung.android.wcmurlsnetworkstack",
+    "sourceDir": "/product/app/WcmUrlsNetworkStackOverlay/WcmUrlsNetworkStackOverlay.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.vivaleisure.clublime_member",
+    "packageName": "com.vivaleisure.clublime_member",
+    "processName": "com.vivaleisure.clublime_member",
+    "sourceDir": "/data/app/~~jupfq6VRyyVXAkwlKSHAdA==/com.vivaleisure.clublime_member-Se9uYL2z89nM7aaUdf4C_g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.sm.devicesecurity",
+    "packageName": "com.samsung.android.sm.devicesecurity",
+    "processName": "com.samsung.android.sm.devicesecurity",
+    "sourceDir": "/system/priv-app/SmartManager_v6_DeviceSecurity/SmartManager_v6_DeviceSecurity.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.cellbroadcastreceiver",
+    "packageName": "com.google.android.overlay.modules.cellbroadcastreceiver",
+    "processName": "com.google.android.overlay.modules.cellbroadcastreceiver",
+    "sourceDir": "/product/overlay/CellBroadcastConfigOverlay.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.bitstrips.imoji",
+    "packageName": "com.bitstrips.imoji",
+    "processName": "com.bitstrips.imoji",
+    "sourceDir": "/data/app/~~zc8h6vSyezUqWLuELnUugw==/com.bitstrips.imoji-_n9g6l979EDUtEWQ1jo0Yw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.peripheral.framework",
+    "packageName": "com.samsung.android.peripheral.framework",
+    "processName": "com.samsung.android.peripheral.framework",
+    "sourceDir": "/system/priv-app/PeripheralFramework/PeripheralFramework.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.internal.systemui.navbar.sec_gestural_no_hint",
+    "packageName": "com.samsung.internal.systemui.navbar.sec_gestural_no_hint",
+    "processName": "com.samsung.internal.systemui.navbar.sec_gestural_no_hint",
+    "sourceDir": "/product/overlay/NavigationBarModeSamsungGesturalNoHint/NavigationBarModeSamsungGesturalNoHintOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.aircommandmanager",
+    "packageName": "com.samsung.android.aircommandmanager",
+    "processName": "com.samsung.android.aircommandmanager",
+    "sourceDir": "/system/app/FactoryAirCommandManager/FactoryAirCommandManager.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.net.wifi.wifiguider",
+    "packageName": "com.samsung.android.net.wifi.wifiguider",
+    "processName": "com.samsung.android.net.wifi.wifiguider",
+    "sourceDir": "/system/app/WifiGuider/WifiGuider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.wifi.softapwpathree.resources",
+    "packageName": "com.samsung.android.wifi.softapwpathree.resources",
+    "processName": "com.samsung.android.wifi.softapwpathree.resources",
+    "sourceDir": "/vendor/overlay/SoftapOverlayWpa3/SoftapOverlayWpa3.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.bixby.service",
+    "packageName": "com.samsung.android.bixby.service",
+    "processName": "com.samsung.android.bixby.service",
+    "sourceDir": "/data/app/~~nIJBgQhPtspQSauoLAx4dw==/com.samsung.android.bixby.service-vx7LHxV6DCk_NOGC8OOhgA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.stplatform",
+    "packageName": "com.samsung.android.service.stplatform",
+    "processName": "com.samsung.android.service.stplatform",
+    "sourceDir": "/data/app/~~eBch0bY3JxAu6nKZo9besg==/com.samsung.android.service.stplatform-C33cBZjrnLTrkRyh09OvUw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.smartface",
+    "packageName": "com.samsung.android.smartface",
+    "processName": "com.samsung.android.smartface",
+    "sourceDir": "/system/priv-app/smartfaceservice/smartfaceservice.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.egg",
+    "packageName": "com.android.egg",
+    "processName": "com.android.egg",
+    "sourceDir": "/system/app/EasterEgg/EasterEgg.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.mtp",
+    "packageName": "com.android.mtp",
+    "processName": "android.process.media",
+    "sourceDir": "/system/priv-app/MtpService/MtpService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.nfc",
+    "packageName": "com.android.nfc",
+    "processName": "com.android.nfc",
+    "sourceDir": "/system/app/NfcNci/NfcNci.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.ons",
+    "packageName": "com.android.ons",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/priv-app/ONS/ONS.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.stk",
+    "packageName": "com.android.stk",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/app/Stk/Stk.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.messaging",
+    "packageName": "com.samsung.android.messaging",
+    "processName": "com.samsung.android.messaging",
+    "sourceDir": "/system/priv-app/SamsungMessages/SamsungMessages.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.camerasdkservice",
+    "packageName": "com.samsung.android.camerasdkservice",
+    "processName": "com.samsung.android.camerasdkservice",
+    "sourceDir": "/system/priv-app/SCameraSDKService/SCameraSDKService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.backupconfirm",
+    "packageName": "com.android.backupconfirm",
+    "permission": "android.permission.CONFIRM_FULL_BACKUP",
+    "processName": "com.android.backupconfirm",
+    "sourceDir": "/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.amazon.dee.app",
+    "packageName": "com.amazon.dee.app",
+    "processName": "com.amazon.dee.app",
+    "sourceDir": "/data/app/~~ndt5xSVlOy04-IBSUB0Aew==/com.amazon.dee.app-oe7387TTDkcdTlV0AxtX9Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.klmsagent",
+    "packageName": "com.samsung.klmsagent",
+    "processName": "com.samsung.klmsagent",
+    "sourceDir": "/system/priv-app/KLMSAgent/KLMSAgent.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.instagram.android",
+    "packageName": "com.instagram.android",
+    "processName": "com.instagram.android",
+    "sourceDir": "/data/app/~~olrC78FK3FYA0W5TXC-NkA==/com.instagram.android-Xl069siTDpvgN1npR8RGgg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.tips",
+    "packageName": "com.samsung.android.app.tips",
+    "processName": "com.samsung.android.app.tips",
+    "sourceDir": "/data/app/~~Z0YogW7oi1b3OuSobJbe9Q==/com.samsung.android.app.tips-l4jauaj2xoXO2hmAGKOIdg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.android.app.SecSetupWizard",
+    "packageName": "com.sec.android.app.SecSetupWizard",
+    "processName": "com.sec.android.app.SecSetupWizard",
+    "sourceDir": "/system/priv-app/SecSetupWizard_Global/SecSetupWizard_Global.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.vrem.wifianalyzer",
+    "packageName": "com.vrem.wifianalyzer",
+    "processName": "com.vrem.wifianalyzer",
+    "sourceDir": "/data/app/~~aRk33ePCl5qFIK3xwY2SYQ==/com.vrem.wifianalyzer-eR1VrHX6OGLX0xcEoHM1bQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.fingerprintjs.android.playground",
+    "packageName": "com.fingerprintjs.android.playground",
+    "processName": "com.fingerprintjs.android.playground",
+    "sourceDir": "/data/app/~~9-Kq2_3HoiJZildoJC1cUw==/com.fingerprintjs.android.playground-MK-v9faqtxg76sI8Gd0hOQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.microsoft.office.onenote",
+    "packageName": "com.microsoft.office.onenote",
+    "processName": "com.microsoft.office.onenote",
+    "sourceDir": "/data/app/~~kvtga7gXDeYPn5WR-rVKqA==/com.microsoft.office.onenote-m1lHy1KreKftz0IwZf5E_w==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.deskclock",
+    "packageName": "com.google.android.deskclock",
+    "processName": "com.google.android.deskclock",
+    "sourceDir": "/data/app/~~RgeSCjhDZGSKG-g48UQHag==/com.google.android.deskclock-Uq4dJtnJJleRaaA6X_Y9hw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.telephonyui",
+    "packageName": "com.samsung.android.app.telephonyui",
+    "processName": "com.samsung.android.app.telephonyui",
+    "sourceDir": "/system/priv-app/TelephonyUI/TelephonyUI.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.wifi.softap.resources",
+    "packageName": "com.samsung.android.wifi.softap.resources",
+    "processName": "com.samsung.android.wifi.softap.resources",
+    "sourceDir": "/vendor/overlay/SoftapOverlay/SoftapOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.samsungpositioning",
+    "packageName": "com.samsung.android.samsungpositioning",
+    "processName": "com.samsung.android.samsungpositioning",
+    "sourceDir": "/system/priv-app/SamsungPositioning/SamsungPositioning.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.statementservice",
+    "packageName": "com.android.statementservice",
+    "processName": "com.android.statementservice",
+    "sourceDir": "/system/priv-app/StatementService/StatementService.apk"
+  },
+  {
+    "appType": "User",
+    "dataDir": "/data/user/0/com.instagram.layout",
+    "packageName": "com.instagram.layout",
+    "processName": "com.instagram.layout",
+    "sourceDir": "/data/app/~~KFqyAZxpzdJvTh9vi9T1nQ==/com.instagram.layout-RoTME7mejlcdE6ZMPTRsUQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.as",
+    "packageName": "com.google.android.as",
+    "processName": "com.google.android.as",
+    "sourceDir": "/data/app/~~J8YziBwAnnr8IUjauCsiPQ==/com.google.android.as-AcoQnJ50YzvLtQP5sIqjIg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.gm",
+    "packageName": "com.google.android.gm",
+    "processName": "com.google.android.gm",
+    "sourceDir": "/data/app/~~lJyKz7977IwlwKdq_zXrpQ==/com.google.android.gm-WqsAbDsNuDcQJ664ZKe6xw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.bixby.agent",
+    "packageName": "com.samsung.android.bixby.agent",
+    "processName": "com.samsung.android.bixby.agent",
+    "sourceDir": "/data/app/~~XnEA4XfHntJpKK09kCk9fw==/com.samsung.android.bixby.agent-xXSWAjcHjWxB0YvDCLCSEw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.overlook.android.fing",
+    "packageName": "com.overlook.android.fing",
+    "processName": "com.overlook.android.fing",
+    "sourceDir": "/data/app/~~Hmtufwos7aUiRPOBMdvIhg==/com.overlook.android.fing-QnPGnaTt2qT3MfSOQbvcNA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.tachyon",
+    "packageName": "com.google.android.apps.tachyon",
+    "processName": "com.google.android.apps.tachyon",
+    "sourceDir": "/data/app/~~l8H_g3FfWxEq16AP4ldn3A==/com.google.android.apps.tachyon--2gEM0N1_rMCJ82xeIGA4g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.gmsconfig.common",
+    "packageName": "com.google.android.overlay.gmsconfig.common",
+    "processName": "com.google.android.overlay.gmsconfig.common",
+    "sourceDir": "/product/overlay/GmsConfigOverlayCommon.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/org.thoughtcrime.securesms",
+    "packageName": "org.thoughtcrime.securesms",
+    "processName": "org.thoughtcrime.securesms",
+    "sourceDir": "/data/app/~~S1__d6Zq_j7BbPsV4udNlw==/org.thoughtcrime.securesms-bFrWX1bUDnZqXVTxYlEZeg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.hwmoduletest",
+    "packageName": "com.sec.android.app.hwmoduletest",
+    "processName": "com.sec.android.app.hwmoduletest",
+    "sourceDir": "/system/priv-app/HwModuleTest/HwModuleTest.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.settings.intelligence",
+    "packageName": "com.android.settings.intelligence",
+    "processName": "com.android.settings.intelligence",
+    "sourceDir": "/system/priv-app/SecSettingsIntelligence/SecSettingsIntelligence.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.bcservice",
+    "packageName": "com.sec.bcservice",
+    "processName": "com.sec.bcservice",
+    "sourceDir": "/system/app/BCService/BCService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.modem.settings",
+    "packageName": "com.sec.modem.settings",
+    "processName": "com.sec.modem.settings",
+    "sourceDir": "/system/app/SilentLog/SilentLog.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.gamedriver.ex2100",
+    "packageName": "com.samsung.gamedriver.ex2100",
+    "processName": "com.samsung.gamedriver.ex2100",
+    "sourceDir": "/system/priv-app/GameDriver-EX2100/GameDriver-EX2100.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/ch.protonvpn.android",
+    "packageName": "ch.protonvpn.android",
+    "processName": "ch.protonvpn.android",
+    "sourceDir": "/data/app/~~XV-Kp1P6WYQGwWwMk4idkg==/ch.protonvpn.android-8c3W-U31it7xxAijlcQJ6w==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "9",
+    "dataDir": "/data/user/0/com.monotype.android.font.samsungone",
+    "packageName": "com.monotype.android.font.samsungone",
+    "processName": "com.monotype.android.font.samsungone",
+    "sourceDir": "/system/app/SamsungOne/SamsungOne.apk"
+  },
+  {
+    "appType": "User",
+    "dataDir": "/data/user/0/com.monotype.android.font.samsungsans",
+    "packageName": "com.monotype.android.font.samsungsans",
+    "processName": "com.monotype.android.font.samsungsans",
+    "sourceDir": "/data/app/~~4r4fQ5mW1UCmzqIczntFew==/com.monotype.android.font.samsungsans-Or-63E1450gbJYhMeYCJXw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.systemui.navbar.gestural_extra_wide_back",
+    "packageName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+    "processName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+    "sourceDir": "/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.privacydashboard",
+    "packageName": "com.samsung.android.privacydashboard",
+    "processName": "com.samsung.android.privacydashboard",
+    "sourceDir": "/system/priv-app/PrivacyDashboard/PrivacyDashboard.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/kr.fourwheels.myduty",
+    "packageName": "kr.fourwheels.myduty",
+    "processName": "kr.fourwheels.myduty",
+    "sourceDir": "/data/app/~~r6I0aNJ-f4--zdYa91ziiQ==/kr.fourwheels.myduty-ajitiBOUGYK9xaV54dY3aA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.microsoft.office.outlook",
+    "packageName": "com.microsoft.office.outlook",
+    "processName": "com.microsoft.office.outlook",
+    "sourceDir": "/data/app/~~06MhVk8TkuyEeY9w3hi9ew==/com.microsoft.office.outlook-GfAhlsoTW8_iK9uKHvylgQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.permissioncontroller",
+    "packageName": "com.google.android.permissioncontroller",
+    "processName": "com.google.android.permissioncontroller",
+    "sourceDir": "/apex/com.android.permission/priv-app/GooglePermissionController@SC/GooglePermissionController.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.servicemodeapp",
+    "packageName": "com.sec.android.app.servicemodeapp",
+    "processName": "com.sec.android.app.servicemodeapp",
+    "sourceDir": "/system/priv-app/serviceModeApp_FB/serviceModeApp_FB.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/au.com.tdj.gator.dashcams",
+    "packageName": "au.com.tdj.gator.dashcams",
+    "processName": "au.com.tdj.gator.dashcams",
+    "sourceDir": "/data/app/~~VcQfeuumt0QRxLLs9-JEJw==/au.com.tdj.gator.dashcams-iu3T80vcPTrFw7F43AYTHw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.setupwizard",
+    "packageName": "com.google.android.setupwizard",
+    "processName": "com.google.android.setupwizard",
+    "sourceDir": "/system/system_ext/priv-app/SetupWizard/SetupWizard.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.mcdonalds.au.gma",
+    "packageName": "com.mcdonalds.au.gma",
+    "processName": "com.mcdonalds.au.gma",
+    "sourceDir": "/data/app/~~a8_nMNI4ymOW7FcuBQ00qA==/com.mcdonalds.au.gma-qI3uGuZEjTf9N5mW4vYmkg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.tadownloader",
+    "packageName": "com.samsung.android.tadownloader",
+    "processName": "com.samsung.android.tadownloader",
+    "sourceDir": "/system/priv-app/TADownloader/TADownloader.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.gallery3d",
+    "packageName": "com.sec.android.gallery3d",
+    "processName": "com.sec.android.gallery3d",
+    "sourceDir": "/data/app/~~jJnxX8XuT4-bx7n7o7LSxQ==/com.sec.android.gallery3d-97wydarLxW17f5Ew1YBoBg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.providers.settings",
+    "packageName": "com.android.providers.settings",
+    "processName": "system",
+    "sourceDir": "/system/priv-app/SettingsProvider/SettingsProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.volumemonitorprovider",
+    "packageName": "com.sec.android.app.volumemonitorprovider",
+    "processName": "com.sec.android.app.volumemonitorprovider",
+    "sourceDir": "/system/priv-app/VolumeMonitorProvider_S/VolumeMonitorProvider_S.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.accessibility",
+    "packageName": "com.samsung.accessibility",
+    "processName": "com.samsung.accessibility",
+    "sourceDir": "/data/app/~~16eCQQv8-jQ0GxgopH3QIQ==/com.samsung.accessibility-UwM1bmuhHCA1pIygXEFlsg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.imsservice",
+    "packageName": "com.sec.imsservice",
+    "processName": "com.sec.imsservice",
+    "sourceDir": "/system/priv-app/imsservice/imsservice.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.sharedstoragebackup",
+    "packageName": "com.android.sharedstoragebackup",
+    "permission": "android.permission.CONFIRM_FULL_BACKUP",
+    "processName": "com.android.sharedstoragebackup",
+    "sourceDir": "/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.mobileservice",
+    "packageName": "com.samsung.android.mobileservice",
+    "processName": "com.samsung.android.mobileservice",
+    "sourceDir": "/data/app/~~wMDR3Vhn-MvccXidBJ24zg==/com.samsung.android.mobileservice-C22u4UysHjGAeh48YVYzBA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.printspooler",
+    "packageName": "com.android.printspooler",
+    "processName": "com.android.printspooler",
+    "sourceDir": "/system/app/PrintSpooler/PrintSpooler.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.hotwordenrollment.okgoogle",
+    "packageName": "com.android.hotwordenrollment.okgoogle",
+    "permission": "android.permission.MANAGE_VOICE_KEYPHRASES",
+    "processName": "com.android.hotwordenrollment.okgoogle",
+    "sourceDir": "/product/priv-app/HotwordEnrollmentOKGoogleEx3CORTEXM4/HotwordEnrollmentOKGoogleEx3CORTEXM4.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.mdagent",
+    "packageName": "com.samsung.android.mdagent",
+    "processName": "com.samsung.android.mdagent",
+    "sourceDir": "/system/priv-app/MdAgent/MdAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.health",
+    "packageName": "com.samsung.android.service.health",
+    "processName": "com.samsung.android.service.health",
+    "sourceDir": "/data/app/~~3ZIuwBPHCtYYzbwDJIZR6w==/com.samsung.android.service.health-wWaUbQxhzaqXhEtwNhIYSQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.systemupdate",
+    "packageName": "com.sec.android.systemupdate",
+    "processName": "com.sec.android.systemupdate",
+    "sourceDir": "/system/priv-app/SystemUpdate/SystemUpdate.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.mdx.kit",
+    "packageName": "com.samsung.android.mdx.kit",
+    "processName": "com.samsung.android.mdx.kit",
+    "sourceDir": "/data/app/~~0Ssj2szyRnOH_afZl-gxmA==/com.samsung.android.mdx.kit-qObroETTZt4YeMtrH2eBbA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.microsoft.msapps",
+    "packageName": "com.microsoft.msapps",
+    "processName": "com.microsoft.msapps",
+    "sourceDir": "/data/app/~~j78NWOxcfw7i7g_T0if58Q==/com.microsoft.msapps-7mBv7Iir0r-d_iYNRirsUQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.storyservice",
+    "packageName": "com.samsung.storyservice",
+    "processName": "com.samsung.storyservice",
+    "sourceDir": "/system/priv-app/StoryService/StoryService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.dreams.basic",
+    "packageName": "com.android.dreams.basic",
+    "processName": "com.android.dreams.basic",
+    "sourceDir": "/system/app/BasicDreams/BasicDreams.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.settings.auto_generated_rro_product__",
+    "packageName": "com.android.providers.settings.auto_generated_rro_product__",
+    "processName": "com.android.providers.settings.auto_generated_rro_product__",
+    "sourceDir": "/product/overlay/SettingsProvider__auto_generated_rro_product.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.ext.services",
+    "packageName": "com.google.android.overlay.modules.ext.services",
+    "processName": "com.google.android.overlay.modules.ext.services",
+    "sourceDir": "/product/overlay/GoogleExtServicesConfigOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.as.oss",
+    "packageName": "com.google.android.as.oss",
+    "processName": "com.google.android.as.oss",
+    "sourceDir": "/data/app/~~NGKfkb3Q63TcvWMzYqUa6A==/com.google.android.as.oss-posn1hbVWG-Zaq7jd3s3iw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.se",
+    "packageName": "com.android.se",
+    "processName": "com.android.se",
+    "sourceDir": "/system/app/SecureElement/SecureElement.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.inputdevices",
+    "packageName": "com.android.inputdevices",
+    "processName": "system",
+    "sourceDir": "/system/priv-app/InputDevices/InputDevices.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.samsungpay.gear",
+    "packageName": "com.samsung.android.samsungpay.gear",
+    "processName": "com.samsung.android.samsungpay.gear",
+    "sourceDir": "/data/app/~~j9Urd36KhZZHmvNWhDnvSQ==/com.samsung.android.samsungpay.gear-mitOg1Jc4IAKIq_8bA-Nzw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.wifi.resources",
+    "packageName": "com.samsung.android.wifi.resources",
+    "processName": "com.samsung.android.wifi.resources",
+    "sourceDir": "/system/app/WifiRROverlayApp/WifiRROverlayApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.gmsconfig.photos",
+    "packageName": "com.google.android.overlay.gmsconfig.photos",
+    "processName": "com.google.android.overlay.gmsconfig.photos",
+    "sourceDir": "/product/overlay/GmsConfigOverlayPhotos.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.kgclient",
+    "packageName": "com.samsung.android.kgclient",
+    "processName": "com.samsung.android.kgclient",
+    "sourceDir": "/system/priv-app/KnoxGuard/KnoxGuard.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.punchthrough.lightblueexplorer",
+    "packageName": "com.punchthrough.lightblueexplorer",
+    "processName": "com.punchthrough.lightblueexplorer",
+    "sourceDir": "/data/app/~~4YlcSWF6DV_oc2Ysw1NrUA==/com.punchthrough.lightblueexplorer-T-CO1PruH0uTs7Z3m04gVA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.knox.securefolder",
+    "packageName": "com.samsung.knox.securefolder",
+    "processName": "com.samsung.knox.securefolder",
+    "sourceDir": "/system/priv-app/SecureFolder/SecureFolder.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.bips",
+    "packageName": "com.android.bips",
+    "processName": "com.android.bips",
+    "sourceDir": "/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.audio.hearing.visualization.accessibility.scribe",
+    "packageName": "com.google.audio.hearing.visualization.accessibility.scribe",
+    "processName": "com.google.audio.hearing.visualization.accessibility.scribe",
+    "sourceDir": "/data/app/~~zjjorAHgcAkjoBVlbbuQJg==/com.google.audio.hearing.visualization.accessibility.scribe-Cg7LrC9XlZ2Sz6SnbSj7pA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.stk2",
+    "packageName": "com.android.stk2",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/app/Stk2/Stk2.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.wallet.crypto.trustapp",
+    "packageName": "com.wallet.crypto.trustapp",
+    "processName": "com.wallet.crypto.trustapp",
+    "sourceDir": "/data/app/~~9XLC_5vg_9yNjjyuuPBlKg==/com.wallet.crypto.trustapp-Vu--vzTJUvmB_xX-YzGq3Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.game.gametools",
+    "packageName": "com.samsung.android.game.gametools",
+    "processName": "com.samsung.android.game.gametools",
+    "sourceDir": "/system/priv-app/GameTools_Dream/GameTools_Dream.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.desktopsystemui",
+    "packageName": "com.samsung.desktopsystemui",
+    "processName": "com.samsung.desktopsystemui",
+    "sourceDir": "/system/priv-app/SystemUIDesktop/SystemUIDesktop.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.simplesharing",
+    "packageName": "com.samsung.android.app.simplesharing",
+    "processName": "com.samsung.android.app.simplesharing",
+    "sourceDir": "/system/app/LinkSharing_v11/LinkSharing_v11.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.contacts",
+    "packageName": "com.samsung.android.app.contacts",
+    "processName": "com.samsung.android.app.contacts",
+    "sourceDir": "/system/priv-app/SamsungContacts/SamsungContacts.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.cmfa.framework",
+    "packageName": "com.samsung.android.cmfa.framework",
+    "processName": "com.samsung.android.cmfa.framework",
+    "sourceDir": "/system/priv-app/CMFAFramework/CMFAFramework.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.peoplestripe",
+    "packageName": "com.samsung.android.service.peoplestripe",
+    "processName": "com.samsung.android.service.peoplestripe",
+    "sourceDir": "/system/priv-app/PeopleStripe/PeopleStripe.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sportsbet.sportsbetweb",
+    "packageName": "com.sportsbet.sportsbetweb",
+    "processName": "com.sportsbet.sportsbetweb",
+    "sourceDir": "/data/app/~~FEXCNwT_rgE6aqcNPB1cBw==/com.sportsbet.sportsbetweb-eRic-JBlhZB1KZPhp3nZpQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.da.daagent",
+    "packageName": "com.samsung.android.da.daagent",
+    "processName": "com.samsung.android.da.daagent",
+    "sourceDir": "/system/app/DAAgent/DAAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.captiveportallogin",
+    "packageName": "com.google.android.captiveportallogin",
+    "processName": "com.google.android.captiveportallogin",
+    "sourceDir": "/data/app/~~-Zi1lS-bHflrq0NFVU_U-w==/com.google.android.captiveportallogin-6F7NdtWhnk2cHUVSqmffjQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.brightnessbackupservice",
+    "packageName": "com.samsung.android.brightnessbackupservice",
+    "processName": "com.samsung.android.brightnessbackupservice",
+    "sourceDir": "/system/app/BrightnessBackupService/BrightnessBackupService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.reminder",
+    "packageName": "com.samsung.android.app.reminder",
+    "processName": "com.samsung.android.app.reminder",
+    "sourceDir": "/data/app/~~OKoMMw9jhpFBZfe6JuXy0w==/com.samsung.android.app.reminder-LfjyvI-HdnUiga9ak9RSBw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.gmsconfig.geotz",
+    "packageName": "com.google.android.overlay.gmsconfig.geotz",
+    "processName": "com.google.android.overlay.gmsconfig.geotz",
+    "sourceDir": "/product/overlay/GmsConfigOverlayGeotz.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.app.networkstoragemanager",
+    "packageName": "com.samsung.android.app.networkstoragemanager",
+    "processName": "com.samsung.android.app.networkstoragemanager",
+    "sourceDir": "/data/app/~~cHMythG_PYLNOU8sIK7L3A==/com.samsung.android.app.networkstoragemanager-zQslFAUGWixTHDwS51Cz2g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.smartcallprovider",
+    "packageName": "com.samsung.android.smartcallprovider",
+    "processName": "com.samsung.android.smartcallprovider",
+    "sourceDir": "/system/priv-app/SmartCallProvider/SmartCallProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.smartcapture",
+    "packageName": "com.samsung.android.app.smartcapture",
+    "processName": "com.samsung.android.app.smartcapture",
+    "sourceDir": "/data/app/~~lzAWRONvTSXpiT3-2OkVmA==/com.samsung.android.app.smartcapture-MNgDCM7sju3NjU4P77GLKg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.desktopmode.uiservice",
+    "packageName": "com.sec.android.desktopmode.uiservice",
+    "processName": "com.sec.android.desktopmode.uiservice",
+    "sourceDir": "/system/priv-app/DesktopModeUiService/DesktopModeUiService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.docs",
+    "packageName": "com.google.android.apps.docs",
+    "processName": "com.google.android.apps.docs",
+    "sourceDir": "/data/app/~~H2-wafWzLDHOeR73Oicswg==/com.google.android.apps.docs-zdaacTPMT2h5cl7AQrrRLw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.maps",
+    "packageName": "com.google.android.apps.maps",
+    "processName": "com.google.android.apps.maps",
+    "sourceDir": "/data/app/~~uERuw2R_tetwpbmujnThRQ==/com.google.android.apps.maps-xmfmKka2LLoGzn2GtHUNfA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.modulemetadata",
+    "packageName": "com.google.android.modulemetadata",
+    "processName": "com.google.android.modulemetadata",
+    "sourceDir": "/data/app/~~ndvrWc5t__IOWB-YhNXwgA==/com.google.android.modulemetadata-N9iW3glTYFRq7mtHPzDDjw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.ubercab.eats",
+    "packageName": "com.ubercab.eats",
+    "processName": "com.ubercab.eats",
+    "sourceDir": "/data/app/~~gZ-OKpEh-8C-nFIlgXSf7g==/com.ubercab.eats-39_UHDZKv6kT8VNxPfFiKQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.taskedge",
+    "packageName": "com.samsung.android.app.taskedge",
+    "processName": "com.samsung.android.app.taskedge",
+    "sourceDir": "/system/priv-app/TaskEdgePanel_v3.2/TaskEdgePanel_v3.2.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.dynamiclock",
+    "packageName": "com.samsung.android.dynamiclock",
+    "processName": "com.samsung.android.dynamiclock",
+    "sourceDir": "/system/priv-app/DynamicLockscreen/DynamicLockscreen.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.microsoft.office.word",
+    "packageName": "com.microsoft.office.word",
+    "processName": "com.microsoft.office.word",
+    "sourceDir": "/data/app/~~zM-mOwqNN15qklzOPE_upg==/com.microsoft.office.word-XJbeGVzPDf6OwEiqYAJ0Sg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.advp.imssettings",
+    "packageName": "com.samsung.advp.imssettings",
+    "processName": "com.samsung.advp.imssettings",
+    "sourceDir": "/system/app/ImsSettings/ImsSettings.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.myunidays",
+    "packageName": "com.myunidays",
+    "processName": "com.myunidays",
+    "sourceDir": "/data/app/~~qjwl_XhJjQiXcDMVDKy63A==/com.myunidays-jft2S2hWbCRcYeHAeKlE6g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.location",
+    "packageName": "com.samsung.android.location",
+    "processName": "com.samsung.android.location",
+    "sourceDir": "/system/app/SLocation/SLocation.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.clockpackage",
+    "packageName": "com.sec.android.app.clockpackage",
+    "processName": "com.sec.android.app.clockpackage",
+    "sourceDir": "/data/app/~~PHPgEENq_nSATu4v8-Q0wg==/com.sec.android.app.clockpackage-puILB8dMiyFHnqpHKCVgsQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.RilServiceModeApp",
+    "packageName": "com.sec.android.RilServiceModeApp",
+    "processName": "com.sec.android.RilServiceModeApp",
+    "sourceDir": "/system/priv-app/ModemServiceMode/ModemServiceMode.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.webview",
+    "packageName": "com.google.android.webview",
+    "processName": "com.google.android.webview",
+    "sourceDir": "/data/app/~~qHNH6xS0ph3_FIbtOtE53g==/com.google.android.webview-dMq90ZhjFoUQH8skJIGWqg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.mdecservice",
+    "packageName": "com.samsung.android.mdecservice",
+    "processName": "com.samsung.android.mdecservice",
+    "sourceDir": "/system/app/MdecService/MdecService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.documentsui",
+    "packageName": "com.google.android.overlay.modules.documentsui",
+    "processName": "com.google.android.overlay.modules.documentsui",
+    "sourceDir": "/product/overlay/GoogleDocumentsUIOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.telephonyui.esimclient",
+    "packageName": "com.samsung.android.app.telephonyui.esimclient",
+    "processName": "com.samsung.android.app.telephonyui.esimclient",
+    "sourceDir": "/system/priv-app/EsimClient/EsimClient.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/nl.appyhapps.healthsync",
+    "packageName": "nl.appyhapps.healthsync",
+    "processName": "nl.appyhapps.healthsync",
+    "sourceDir": "/data/app/~~L3MhRN13PtbtgBDDqqQnFw==/nl.appyhapps.healthsync-Oru9eS4LScBisrF5TiLtQg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/org.sans.ondemand",
+    "packageName": "org.sans.ondemand",
+    "processName": "org.sans.ondemand",
+    "sourceDir": "/data/app/~~vFCJgEkrHr10KuLYNBzZ8A==/org.sans.ondemand-DP1rYwR4Dc8PAZNZZndORg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.networkstack",
+    "packageName": "com.google.android.networkstack",
+    "processName": "com.android.networkstack.process",
+    "sourceDir": "/data/app/~~O9KbcxJjI04UVgSdsVy3kA==/com.google.android.networkstack--vYsqdsESTXgMp8y8WclJw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.server.telecom",
+    "packageName": "com.android.server.telecom",
+    "processName": "system",
+    "sourceDir": "/system/priv-app/Telecom/Telecom.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.syncadapters.contacts",
+    "packageName": "com.google.android.syncadapters.contacts",
+    "processName": "com.google.android.syncadapters.contacts",
+    "sourceDir": "/product/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.crane",
+    "packageName": "com.samsung.crane",
+    "processName": "com.samsung.crane",
+    "sourceDir": "/system/priv-app/Crane/Crane.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.euicc",
+    "packageName": "com.samsung.euicc",
+    "processName": "com.samsung.euicc",
+    "sourceDir": "/system/priv-app/EuiccService/EuiccService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.trivago",
+    "packageName": "com.trivago",
+    "processName": "com.trivago",
+    "sourceDir": "/data/app/~~1L9nzDM_FMTC_W6uIhhXLg==/com.trivago-TS2NAiM72FOI_bfjs5L7dg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.imslogger",
+    "packageName": "com.sec.imslogger",
+    "processName": "com.sec.imslogger",
+    "sourceDir": "/system/priv-app/ImsLogger/ImsLogger.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.keychain",
+    "packageName": "com.android.keychain",
+    "processName": "com.android.keychain",
+    "sourceDir": "/system/app/KeyChain/KeyChain.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.server.telecom.auto_generated_rro_product__",
+    "packageName": "com.android.server.telecom.auto_generated_rro_product__",
+    "processName": "com.android.server.telecom.auto_generated_rro_product__",
+    "sourceDir": "/product/overlay/Telecom__auto_generated_rro_product.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/au.gov.nsw.service",
+    "packageName": "au.gov.nsw.service",
+    "processName": "au.gov.nsw.service",
+    "sourceDir": "/data/app/~~kUQzQEisyGaPriV3Tvrssg==/au.gov.nsw.service-WpsCa1sxUNJOrDeqAO79bg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.ardrawing",
+    "packageName": "com.samsung.android.ardrawing",
+    "processName": "com.samsung.android.ardrawing",
+    "sourceDir": "/system/app/ARDrawing/ARDrawing.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.android.chrome",
+    "packageName": "com.android.chrome",
+    "processName": "com.android.chrome",
+    "sourceDir": "/data/app/~~dhf1flkh05WHaPSoXRJWHA==/com.android.chrome-Dn28-66o5X_-5JRX_-tSkg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.ipsgeofence",
+    "packageName": "com.samsung.android.ipsgeofence",
+    "processName": "com.samsung.android.ipsgeofence",
+    "sourceDir": "/data/app/~~J8vToe5-oBBjVQk4Cicq8w==/com.samsung.android.ipsgeofence-2QDv9pFiRfwhotywUA2HrQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.readingglass",
+    "packageName": "com.samsung.android.app.readingglass",
+    "processName": "com.samsung.android.app.readingglass",
+    "sourceDir": "/system/priv-app/AirReadingGlass/AirReadingGlass.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.themecenter",
+    "packageName": "com.samsung.android.themecenter",
+    "processName": "com.samsung.android.themecenter",
+    "sourceDir": "/system/priv-app/ThemeCenter/ThemeCenter.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.server.wifi.mobilewips",
+    "packageName": "com.samsung.android.server.wifi.mobilewips",
+    "processName": "com.samsung.android.server.wifi.mobilewips",
+    "sourceDir": "/system/priv-app/MobileWips/MobileWips.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.packageinstaller",
+    "packageName": "com.google.android.packageinstaller",
+    "processName": "com.google.android.packageinstaller",
+    "sourceDir": "/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.gms",
+    "packageName": "com.google.android.gms",
+    "processName": "com.google.android.gms",
+    "sourceDir": "/data/app/~~xapQ9bdNdO609kv4oEE2Hw==/com.google.android.gms-3xP63M35d43k86we_vD3Lw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.gsf",
+    "packageName": "com.google.android.gsf",
+    "processName": "com.google.process.gapps",
+    "sourceDir": "/system/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.ims",
+    "packageName": "com.google.android.ims",
+    "processName": "com.google.android.ims",
+    "sourceDir": "/data/app/~~h-p713jeMdkDGPLi4yQ4zw==/com.google.android.ims-h7Zy-HMGFO9QuJBzPi3SNw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.tts",
+    "packageName": "com.google.android.tts",
+    "processName": "com.google.android.tts",
+    "sourceDir": "/data/app/~~qlUNvzevKy1FfGF_E3qM2w==/com.google.android.tts-pVrOP9cdRoNiBX4RzjZGkA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/android.autoinstalls.config.samsung",
+    "packageName": "android.autoinstalls.config.samsung",
+    "processName": "android.autoinstalls.config.samsung",
+    "sourceDir": "/data/app/~~UoHl4LE4DOaqGdN2RllNbA==/android.autoinstalls.config.samsung-lXcWwKOrliFP24w9EwsBEQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.coldwalletservice",
+    "packageName": "com.samsung.android.coldwalletservice",
+    "processName": "com.samsung.android.coldwalletservice",
+    "sourceDir": "/data/app/~~lwk-s98LHXnxD5XqaEWFqA==/com.samsung.android.coldwalletservice-cdGo9rWJzgrbS1jrD73YDA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.wifi.resources",
+    "packageName": "com.android.wifi.resources",
+    "processName": "com.android.wifi.resources",
+    "sourceDir": "/apex/com.android.wifi/priv-app/ServiceWifiResources/ServiceWifiResources.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.ryan.flask",
+    "packageName": "com.ryan.flask",
+    "processName": "com.ryan.flask",
+    "sourceDir": "/data/app/~~Z__KqVHRRbIn0F6DKqOqWA==/com.ryan.flask-WVngX3z-01MGrmIzIr5sfg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/au.com.realestate.app",
+    "packageName": "au.com.realestate.app",
+    "processName": "au.com.realestate.app",
+    "sourceDir": "/data/app/~~wDkKtISetXa1if-ozhQGMg==/au.com.realestate.app-otUysQx0SkCNZXZ8on6i3A==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.container",
+    "packageName": "com.samsung.android.container",
+    "processName": "com.samsung.android.container",
+    "sourceDir": "/system/app/ContainerService/ContainerService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.calllogbackup",
+    "packageName": "com.android.calllogbackup",
+    "processName": "com.android.calllogbackup",
+    "sourceDir": "/system/priv-app/CallLogBackup/CallLogBackup.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.partnersetup",
+    "packageName": "com.google.android.partnersetup",
+    "processName": "com.google.android.partnersetup",
+    "sourceDir": "/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.cameraextensions",
+    "packageName": "com.android.cameraextensions",
+    "processName": "com.android.cameraextensions",
+    "sourceDir": "/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk"
+  },
+  {
+    "appType": "User",
+    "dataDir": "/data/user/0/com.rocketshipapps.adblockfast",
+    "packageName": "com.rocketshipapps.adblockfast",
+    "processName": "com.rocketshipapps.adblockfast",
+    "sourceDir": "/data/app/~~IYE4l0oqy_j81lr7mR3Nuw==/com.rocketshipapps.adblockfast-NTK1rJXGKX2JCLabUVJiCg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.diagmonagent",
+    "packageName": "com.sec.android.diagmonagent",
+    "processName": "com.sec.android.diagmonagent",
+    "sourceDir": "/system/priv-app/DiagMonAgent8/DiagMonAgent8.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.localtransport",
+    "packageName": "com.android.localtransport",
+    "processName": "com.android.localtransport",
+    "sourceDir": "/system/priv-app/LocalTransport/LocalTransport.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.videos",
+    "packageName": "com.google.android.videos",
+    "processName": "com.google.android.videos",
+    "sourceDir": "/data/app/~~BylFoq_9seTfF9mbsrFfYw==/com.google.android.videos-Xxcs9YySmy5_88-Yw7zrHg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.ledbackcover",
+    "packageName": "com.samsung.android.app.ledbackcover",
+    "processName": "com.samsung.android.app.ledbackcover",
+    "sourceDir": "/system/priv-app/LedBackCoverAppUnbound/LedBackCoverAppUnbound.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.gmsconfig.gsa",
+    "packageName": "com.google.android.overlay.gmsconfig.gsa",
+    "processName": "com.google.android.overlay.gmsconfig.gsa",
+    "sourceDir": "/product/overlay/GmsConfigOverlayGSA.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.biometrics.app.setting",
+    "packageName": "com.samsung.android.biometrics.app.setting",
+    "processName": "com.samsung.android.biometrics.app.setting",
+    "sourceDir": "/system/priv-app/BiometricSetting/BiometricSetting.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.telstra.mobile.android.mytelstra",
+    "packageName": "com.telstra.mobile.android.mytelstra",
+    "processName": "com.telstra.mobile.android.mytelstra",
+    "sourceDir": "/data/app/~~Mn8px2rMVd5n_D-d4Zd2WQ==/com.telstra.mobile.android.mytelstra-X2YRIKP3pTebdF4mxFw4vw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.spp.push",
+    "packageName": "com.sec.spp.push",
+    "processName": "com.sec.spp.push",
+    "sourceDir": "/data/app/~~oksXlLdTNvCtkrTxAjOBfw==/com.sec.spp.push-uf5jKJBJ_5PDSmzvb51HNw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.carrierdefaultapp",
+    "packageName": "com.android.carrierdefaultapp",
+    "processName": "com.android.carrierdefaultapp",
+    "sourceDir": "/system/app/CarrierDefaultApp/CarrierDefaultApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.aremojieditor",
+    "packageName": "com.samsung.android.aremojieditor",
+    "processName": "com.samsung.android.aremojieditor",
+    "sourceDir": "/data/app/~~7EwZSFNObYWoevNQ5p4iqQ==/com.samsung.android.aremojieditor-GP78tdzlBzexDYbtAbDAkA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.icecone",
+    "packageName": "com.samsung.android.icecone",
+    "processName": "com.samsung.android.icecone",
+    "sourceDir": "/data/app/~~bqKPtI80HgNWrh2SKMEzVw==/com.samsung.android.icecone-NE9GYrp5pMijNFwiR05pfQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.theme.font.notoserifsource",
+    "packageName": "com.android.theme.font.notoserifsource",
+    "processName": "com.android.theme.font.notoserifsource",
+    "sourceDir": "/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.myfiles",
+    "packageName": "com.sec.android.app.myfiles",
+    "processName": "com.sec.android.app.myfiles",
+    "sourceDir": "/data/app/~~C2qeMZQ5xkmWAQde3dHm9g==/com.sec.android.app.myfiles-QVcN4VSvDnXNXSQPTir-aQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.proxyhandler",
+    "packageName": "com.android.proxyhandler",
+    "processName": "com.android.proxyhandler",
+    "sourceDir": "/system/priv-app/ProxyHandler/ProxyHandler.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.display.cutout.emulation.waterfall",
+    "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+    "processName": "com.android.internal.display.cutout.emulation.waterfall",
+    "sourceDir": "/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.allshare.service.fileshare",
+    "packageName": "com.samsung.android.allshare.service.fileshare",
+    "processName": "com.samsung.android.allshare.service.fileshare",
+    "sourceDir": "/system/app/AllshareFileShare/AllshareFileShare.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.netflix.mediaclient",
+    "packageName": "com.netflix.mediaclient",
+    "processName": "com.netflix.mediaclient",
+    "sourceDir": "/data/app/~~kaUyKtlVj_uR7zEaQx89Hg==/com.netflix.mediaclient-m74z-rcPMsWgA49tE1hPZQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.app.routines",
+    "packageName": "com.samsung.android.app.routines",
+    "processName": "com.samsung.android.app.routines",
+    "sourceDir": "/data/app/~~u0d-tDikeEUsYfM4OhpjMg==/com.samsung.android.app.routines-ClWnL0jYSHQeW_fwFCEHwg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.dexonpc",
+    "packageName": "com.sec.android.app.dexonpc",
+    "processName": "com.sec.android.app.dexonpc",
+    "sourceDir": "/system/priv-app/DeXonPC/DeXonPC.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.mimage.photoretouching",
+    "packageName": "com.sec.android.mimage.photoretouching",
+    "processName": "com.sec.android.mimage.photoretouching",
+    "sourceDir": "/data/app/~~3bLiGNDCuEGvyYsBcRP6Xw==/com.sec.android.mimage.photoretouching-pnbm5rKmf4NY1FSkVwJf1A==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.launcher",
+    "packageName": "com.sec.android.app.launcher",
+    "processName": "com.sec.android.app.launcher",
+    "sourceDir": "/data/app/~~stPvZWBvJTu5yKvHdsC3og==/com.sec.android.app.launcher-D12zjOY6UPXt68ey1_pTeQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.shealthmonitor",
+    "packageName": "com.samsung.android.shealthmonitor",
+    "processName": "com.samsung.android.shealthmonitor",
+    "sourceDir": "/data/app/~~5gwt24PB0SxLAUe7hVupBA==/com.samsung.android.shealthmonitor-RbYynBTJCeZlQj5t3KRdkw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.zhiliaoapp.musically",
+    "packageName": "com.zhiliaoapp.musically",
+    "processName": "com.zhiliaoapp.musically",
+    "sourceDir": "/data/app/~~FyIqojv7NdDg55E55MpL_w==/com.zhiliaoapp.musically-pAr78ktQT6yUGD-EZaldjA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user_de/0/com.google.android.connectivity.resources",
+    "packageName": "com.google.android.connectivity.resources",
+    "processName": "com.google.android.connectivity.resources",
+    "sourceDir": "/apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle/ServiceConnectivityResourcesGoogle.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.permissioncontroller.forframework",
+    "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+    "processName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+    "sourceDir": "/product/overlay/GooglePermissionControllerFrameworkOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.apex",
+    "packageName": "com.sec.android.app.apex",
+    "processName": "com.sec.android.app.apex",
+    "sourceDir": "/system/app/ApexService/ApexService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.feedback",
+    "packageName": "com.google.android.feedback",
+    "processName": "com.google.android.feedback",
+    "sourceDir": "/system/system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.printservice.recommendation",
+    "packageName": "com.google.android.printservice.recommendation",
+    "processName": "com.google.android.printservice.recommendation",
+    "sourceDir": "/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "9",
+    "dataDir": "/data/user/0/com.appuccino.movie.recorder.pro",
+    "packageName": "com.appuccino.movie.recorder.pro",
+    "processName": "com.appuccino.movie.recorder.pro",
+    "sourceDir": "/data/app/~~TtjuApz6FyEuIA7wwiVjZw==/com.appuccino.movie.recorder.pro-3SEFHoxgxghWKievNxv9VA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.apps.photos",
+    "packageName": "com.google.android.apps.photos",
+    "processName": "com.google.android.apps.photos",
+    "sourceDir": "/data/app/~~57FPN7p7JcmxU55n0AJaRA==/com.google.android.apps.photos-I08GYam_5Iqvd3ktsrdvsw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.calendar",
+    "packageName": "com.google.android.calendar",
+    "processName": "com.google.android.calendar",
+    "sourceDir": "/data/app/~~0q50PaoxI_eBaNwDKqGbZA==/com.google.android.calendar-qFmDgclg-62XU6TwwGqRFQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.sec.android.teegris.tui_service",
+    "packageName": "com.samsung.sec.android.teegris.tui_service",
+    "processName": "com.samsung.sec.android.teegris.tui_service",
+    "sourceDir": "/system/app/TEEgrisTuiService/TEEgrisTuiService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.syncadapters.calendar",
+    "packageName": "com.google.android.syncadapters.calendar",
+    "processName": "com.google.android.syncadapters.calendar",
+    "sourceDir": "/product/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.managedprovisioning",
+    "packageName": "com.android.managedprovisioning",
+    "processName": "com.android.managedprovisioning",
+    "sourceDir": "/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.setting.multisound",
+    "packageName": "com.samsung.android.setting.multisound",
+    "processName": "com.samsung.android.setting.multisound",
+    "sourceDir": "/system/priv-app/MultiSoundSetting/MultiSoundSetting.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.spotify.music",
+    "packageName": "com.spotify.music",
+    "processName": "com.spotify.music",
+    "sourceDir": "/data/app/~~VHKUpwvoIn2LKg-mDbgtnw==/com.spotify.music-HDRPYXLOM_1bsuYsjjWmtA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.arzone",
+    "packageName": "com.samsung.android.arzone",
+    "processName": "com.samsung.android.arzone",
+    "sourceDir": "/data/app/~~5MwByRo-IYLea2fbtrbYFw==/com.samsung.android.arzone-L9-cxqj6wsOlpOXmth0W4Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.authfw",
+    "packageName": "com.samsung.android.authfw",
+    "processName": "com.samsung.android.authfw",
+    "sourceDir": "/data/app/~~wxpEVVIIfYt67slOjwNEsQ==/com.samsung.android.authfw-tQDMch4Qg3tEaCINNok77g==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.instructure.candroid",
+    "packageName": "com.instructure.candroid",
+    "processName": "com.instructure.candroid",
+    "sourceDir": "/data/app/~~QFZj9KyV51Thaeg47G2-4w==/com.instructure.candroid-OFhGF4KPm_52zarXHqa6vQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.ubercab",
+    "packageName": "com.ubercab",
+    "processName": "com.ubercab",
+    "sourceDir": "/data/app/~~77DhzEGjB9WwxeTi3K089A==/com.ubercab-WnfFwY4ktkzV6aDYC8vrhg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.sbrowser",
+    "packageName": "com.sec.android.app.sbrowser",
+    "processName": "com.sec.android.app.sbrowser",
+    "sourceDir": "/data/app/~~sM9Gg1PMOU1SDpoSDuloEA==/com.sec.android.app.sbrowser-XfqAhDVVPoaw5h-plSGMnA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.documentsui",
+    "packageName": "com.google.android.documentsui",
+    "processName": "com.google.android.documentsui",
+    "sourceDir": "/data/app/~~wNbl7Kf8bMmZm2bhzZTG2Q==/com.google.android.documentsui-4cK1W5blR8NFoJNjGwwZ7w==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.microsoft.office.officehubrow",
+    "packageName": "com.microsoft.office.officehubrow",
+    "processName": "com.microsoft.office.officehubrow",
+    "sourceDir": "/data/app/~~lCv_uEaAl5wTVaaWd1nPrg==/com.microsoft.office.officehubrow-FlqvrXb8W0Q1aiU7xuKBxQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.ConnectivityUxOverlay",
+    "packageName": "com.samsung.android.ConnectivityUxOverlay",
+    "processName": "com.samsung.android.ConnectivityUxOverlay",
+    "sourceDir": "/product/app/ConnectivityUxOverlay/ConnectivityUxOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.dreams.phototable",
+    "packageName": "com.android.dreams.phototable",
+    "processName": "com.android.dreams.phototable",
+    "sourceDir": "/system/app/PhotoTable/PhotoTable.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.bixbyvision.framework",
+    "packageName": "com.samsung.android.bixbyvision.framework",
+    "processName": "com.samsung.android.bixbyvision.framework",
+    "sourceDir": "/system/priv-app/BixbyVisionFramework3.5/BixbyVisionFramework3.5.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.mainline.telemetry",
+    "packageName": "com.google.mainline.telemetry",
+    "processName": "com.google.mainline.telemetry",
+    "sourceDir": "/data/app/~~-znX72TbEzXYd0_ieAkKJQ==/com.google.mainline.telemetry-bnX7LkBK3-hKN8_mplq4eA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.safetyinformation",
+    "packageName": "com.samsung.safetyinformation",
+    "processName": "com.samsung.safetyinformation",
+    "sourceDir": "/system/app/SafetyInformation/SafetyInformation.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.dialer",
+    "packageName": "com.samsung.android.dialer",
+    "processName": "com.samsung.android.dialer",
+    "sourceDir": "/system/priv-app/SamsungDialer/SamsungDialer.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.wifi.h2e.resources",
+    "packageName": "com.samsung.android.wifi.h2e.resources",
+    "processName": "com.samsung.android.wifi.h2e.resources",
+    "sourceDir": "/system/app/WifiRROverlayAppH2E/WifiRROverlayAppH2E.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.hhyu.neuron",
+    "packageName": "com.hhyu.neuron",
+    "processName": "com.hhyu.neuron",
+    "sourceDir": "/data/app/~~lbVFX8CTeqRYOW3WIezJVg==/com.hhyu.neuron-26y50Ugv5jM9s-eJYjuGgQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.facebook.katana",
+    "packageName": "com.facebook.katana",
+    "processName": "com.facebook.katana",
+    "sourceDir": "/data/app/~~OE1RC_FqCWbxLrun3PBQdw==/com.facebook.katana-_BhGiccjA8nlKIQ-gSssww==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.dqagent",
+    "packageName": "com.samsung.android.dqagent",
+    "processName": "com.samsung.android.dqagent",
+    "sourceDir": "/system/priv-app/DeviceQualityAgent3/DeviceQualityAgent3.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.app.highlightplayer",
+    "packageName": "com.samsung.app.highlightplayer",
+    "processName": "com.samsung.app.highlightplayer",
+    "sourceDir": "/data/app/~~rNvcidhvfGnsoX6ICxn7NQ==/com.samsung.app.highlightplayer-4my3-S8ovSF6S74KWi5mDg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.game.gos",
+    "packageName": "com.samsung.android.game.gos",
+    "processName": "com.samsung.android.game.gos",
+    "sourceDir": "/data/app/~~HACN70yO4tmqMKruI1xodw==/com.samsung.android.game.gos-0OjjTkWZWQdJisXPZNGCfQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.forest",
+    "packageName": "com.samsung.android.forest",
+    "processName": "com.samsung.android.forest",
+    "sourceDir": "/data/app/~~HBTflaVlSce-50BnNSESNQ==/com.samsung.android.forest-oXQM7eUK8LZIQNYPRi8SAg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.vepreload",
+    "packageName": "com.sec.android.app.vepreload",
+    "processName": "com.sec.android.app.vepreload",
+    "sourceDir": "/data/app/~~PplK9A5DmToA39XCbrpkmw==/com.sec.android.app.vepreload-bmkl8tdMuzMtEAkqAv4yPw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.partnerbookmarks",
+    "packageName": "com.android.providers.partnerbookmarks",
+    "processName": "com.android.providers.partnerbookmarks",
+    "sourceDir": "/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.hdmapp",
+    "packageName": "com.samsung.android.hdmapp",
+    "processName": "com.samsung.android.hdmapp",
+    "sourceDir": "/system/priv-app/HdmApk/HdmApk.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sonelli.juicessh",
+    "packageName": "com.sonelli.juicessh",
+    "processName": "com.sonelli.juicessh",
+    "sourceDir": "/data/app/~~B0FdV88xxtVKi0Ds_7qbig==/com.sonelli.juicessh-SdHR7mKE9ilk2xCtPU-tnQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sem.factoryapp",
+    "packageName": "com.sem.factoryapp",
+    "processName": "com.sem.factoryapp",
+    "sourceDir": "/system/priv-app/SEMFactoryApp/SEMFactoryApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "9",
+    "dataDir": "/data/user/0/com.samsung.android.app.camera.sticker.facearavatar.preload",
+    "packageName": "com.samsung.android.app.camera.sticker.facearavatar.preload",
+    "processName": "com.samsung.android.app.camera.sticker.facearavatar.preload",
+    "sourceDir": "/system/priv-app/StickerFaceARAvatar/StickerFaceARAvatar.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.wallpaper.livepicker",
+    "packageName": "com.android.wallpaper.livepicker",
+    "processName": "com.android.wallpaper.livepicker",
+    "sourceDir": "/system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.beaconmanager",
+    "packageName": "com.samsung.android.beaconmanager",
+    "processName": "com.samsung.android.beaconmanager",
+    "sourceDir": "/system/priv-app/BeaconManager/BeaconManager.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.internal.systemui.navbar.gestural_no_hint",
+    "packageName": "com.samsung.internal.systemui.navbar.gestural_no_hint",
+    "processName": "com.samsung.internal.systemui.navbar.gestural_no_hint",
+    "sourceDir": "/product/overlay/NavigationBarModeGesturalNoHint/NavigationBarModeGesturalNoHintOverlay.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.airbnb.android",
+    "packageName": "com.airbnb.android",
+    "processName": "com.airbnb.android",
+    "sourceDir": "/data/app/~~alJqeifSdfwH_0X7PJaC1Q==/com.airbnb.android-5Pba_EjK2oVr51SIoubMcw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.enterprise.mdm.services.simpin",
+    "packageName": "com.sec.enterprise.mdm.services.simpin",
+    "processName": "com.sec.enterprise.mdm.services.simpin",
+    "sourceDir": "/system/app/EdmSimPinService/EdmSimPinService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user_de/0/com.android.apps.tag",
+    "packageName": "com.android.apps.tag",
+    "processName": "com.android.apps.tag",
+    "sourceDir": "/system/priv-app/Tag/Tag.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.facebook.orca",
+    "packageName": "com.facebook.orca",
+    "processName": "com.facebook.orca",
+    "sourceDir": "/data/app/~~sngT1BqKY5T2U_4WJmiJEQ==/com.facebook.orca-pWgl3YmArk3ZJANZK9i5GQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.escooterapp",
+    "packageName": "com.escooterapp",
+    "processName": "com.escooterapp",
+    "sourceDir": "/data/app/~~MjoOz2hrdb9V4z04OUpsOw==/com.escooterapp-iNoz40OWzYPnj80WV8XHyQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.ConnectivityOverlay",
+    "packageName": "com.samsung.android.ConnectivityOverlay",
+    "processName": "com.samsung.android.ConnectivityOverlay",
+    "sourceDir": "/vendor/overlay/ConnectivityOverlay/ConnectivityOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.stickercenter",
+    "packageName": "com.samsung.android.stickercenter",
+    "processName": "com.samsung.android.stickercenter",
+    "sourceDir": "/data/app/~~8rvBxqX2W8ykpIXsi9k_cQ==/com.samsung.android.stickercenter-oEpL-f-Nq6YfjT0xr9YdNQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.oneconnect",
+    "packageName": "com.samsung.android.oneconnect",
+    "processName": "com.samsung.android.oneconnect",
+    "sourceDir": "/data/app/~~uuvcC_E8R6IBM-uG0fCB6g==/com.samsung.android.oneconnect-WOPPfsfcfABCoISxWXXVIA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/au.gov.bom.metview",
+    "packageName": "au.gov.bom.metview",
+    "processName": "au.gov.bom.metview",
+    "sourceDir": "/data/app/~~sJ8Ohmr9gyPbH2jRNbr_aA==/au.gov.bom.metview-OxA2G-v9rXwkdrwx9lwq_g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.providers.media",
+    "packageName": "com.samsung.android.providers.media",
+    "processName": "android.process.media",
+    "sourceDir": "/system/priv-app/SecMediaProvider/SecMediaProvider.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.popupcalculator",
+    "packageName": "com.sec.android.app.popupcalculator",
+    "processName": "com.sec.android.app.popupcalculator",
+    "sourceDir": "/data/app/~~nlpQ43t3R2SZKDzsRkmyKg==/com.sec.android.app.popupcalculator-jf0XwY3I9HJ88P1dOHovsg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.soagent",
+    "packageName": "com.sec.android.soagent",
+    "processName": "com.sec.android.soagent",
+    "sourceDir": "/system/priv-app/SOAgent7/SOAgent7.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/au.com.streamotion.ares",
+    "packageName": "au.com.streamotion.ares",
+    "processName": "au.com.streamotion.ares",
+    "sourceDir": "/data/app/~~wu9kWtFbBbGVP0vumvHvQQ==/au.com.streamotion.ares-p6LxRxarSugMmUfAhrBoPQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.chess",
+    "packageName": "com.chess",
+    "processName": "com.chess",
+    "sourceDir": "/data/app/~~0CkeDyATQs_a5a7gWyF5PA==/com.chess-aXTBHERllqvz32H2eC84OQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/org.mozilla.firefox",
+    "packageName": "org.mozilla.firefox",
+    "processName": "org.mozilla.firefox",
+    "sourceDir": "/data/app/~~QapK6_YBjfPhmTxBzig2AA==/org.mozilla.firefox-SfQCUqWvzz4oUzqdAkWJkg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.autodoodle.service",
+    "packageName": "com.sec.android.autodoodle.service",
+    "processName": "com.sec.android.autodoodle.service",
+    "sourceDir": "/data/app/~~dHblquz3YlktuwkOOtKfdA==/com.sec.android.autodoodle.service-AcjgktTivWohi_gvOy6mCg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.android.app.quicktool",
+    "packageName": "com.sec.android.app.quicktool",
+    "processName": "com.sec.android.app.quicktool",
+    "sourceDir": "/system/app/CocktailQuickTool/CocktailQuickTool.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.fmm",
+    "packageName": "com.samsung.android.fmm",
+    "processName": "com.samsung.android.fmm",
+    "sourceDir": "/data/app/~~ZLmb8MTcpnwkXS9z-KS5DA==/com.samsung.android.fmm-8TErLNqXwx1hCB9_QDTSKQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.gru",
+    "packageName": "com.samsung.android.gru",
+    "processName": "com.samsung.android.gru",
+    "sourceDir": "/system/app/GalaxyResourceUpdater/GalaxyResourceUpdater.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.mdm",
+    "packageName": "com.samsung.android.mdm",
+    "processName": "com.samsung.android.mdm",
+    "sourceDir": "/system/app/MDMApp/MDMApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.mdx",
+    "packageName": "com.samsung.android.mdx",
+    "processName": "com.samsung.android.mdx",
+    "sourceDir": "/data/app/~~qwcalF5kwamONnghYUpeeQ==/com.samsung.android.mdx-bo6A7BEEb7g3QpaJYN7Rbg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.mtp",
+    "packageName": "com.samsung.android.mtp",
+    "processName": "android.process.media",
+    "sourceDir": "/system/priv-app/MtpApplication/MtpApplication.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.scs",
+    "packageName": "com.samsung.android.scs",
+    "processName": "com.samsung.android.scs",
+    "sourceDir": "/system/priv-app/SamsungCoreServices/SamsungCoreServices.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.uwb",
+    "packageName": "com.samsung.android.uwb",
+    "processName": "com.samsung.android.uwb",
+    "sourceDir": "/system/app/UwbUci/UwbUci.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.voc",
+    "packageName": "com.samsung.android.voc",
+    "processName": "com.samsung.android.voc",
+    "sourceDir": "/data/app/~~uRZmF9W9j8ahUgicwOxenA==/com.samsung.android.voc-BEDgA3kuMhSGcH-zSJcVzw==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.app.shealth",
+    "packageName": "com.sec.android.app.shealth",
+    "processName": "com.sec.android.app.shealth",
+    "sourceDir": "/data/app/~~Sf4ctXEF7P5vqWW4qQMgDw==/com.sec.android.app.shealth-GZlQpy_6tGq7K1ZVJlTVVA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.unifiedwfc",
+    "packageName": "com.sec.unifiedwfc",
+    "processName": "com.sec.unifiedwfc",
+    "sourceDir": "/system/app/UnifiedWFC/UnifiedWFC.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.penup",
+    "packageName": "com.sec.penup",
+    "processName": "com.sec.penup",
+    "sourceDir": "/data/app/~~SdrOud3lFU7CvgZt4xlRRQ==/com.sec.penup-vbi30_ar0-03kEd-j7fwHQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.phone",
+    "packageName": "com.sec.phone",
+    "processName": "com.sec.phone",
+    "sourceDir": "/system/app/SecFactoryPhoneTest/SecFactoryPhoneTest.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/au.com.opal.travel",
+    "packageName": "au.com.opal.travel",
+    "processName": "au.com.opal.travel",
+    "sourceDir": "/data/app/~~sxmUL-IIo_eVeNYV5_O6rw==/au.com.opal.travel-f1y0ZIb0DfKn9EaaS62-gw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.appseparation",
+    "packageName": "com.samsung.android.appseparation",
+    "processName": "com.samsung.android.appseparation",
+    "sourceDir": "/system/priv-app/SecAppSeparation/SecAppSeparation.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.bixby.wakeup",
+    "packageName": "com.samsung.android.bixby.wakeup",
+    "processName": "com.samsung.android.bixby.wakeup",
+    "sourceDir": "/data/app/~~HleVIRuhCde3f43UXYxvhg==/com.samsung.android.bixby.wakeup-jAlzFNFTVm5wMkICZBuOkQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.updatecenter",
+    "packageName": "com.samsung.android.app.updatecenter",
+    "processName": "com.samsung.android.app.updatecenter",
+    "sourceDir": "/system/priv-app/AppUpdateCenter/AppUpdateCenter.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.honeyboard",
+    "packageName": "com.samsung.android.honeyboard",
+    "processName": "com.samsung.android.honeyboard",
+    "sourceDir": "/data/app/~~jpzVbgtxRCYVUd2OfIcq7Q==/com.samsung.android.honeyboard-PL4UU2QUMXxXKtAdrM-kwg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.commbank.netbank",
+    "packageName": "com.commbank.netbank",
+    "processName": "com.commbank.netbank",
+    "sourceDir": "/data/app/~~Z-1WVOUo2jEsbmRteOgDFg==/com.commbank.netbank-qxw0Wn8_zis_A9QWyfglgw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.samsungpass",
+    "packageName": "com.samsung.android.samsungpass",
+    "processName": "com.samsung.android.samsungpass",
+    "sourceDir": "/data/app/~~9lNOqZGEGnGHvhEGDICHug==/com.samsung.android.samsungpass-BLuBR7PQ12rSm44Lt65zdA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.networkstack.permissionconfig",
+    "packageName": "com.google.android.networkstack.permissionconfig",
+    "processName": "com.google.android.networkstack.permissionconfig",
+    "sourceDir": "/system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.notes.addons",
+    "packageName": "com.samsung.android.app.notes.addons",
+    "processName": "com.samsung.android.app.notes.addons",
+    "sourceDir": "/system/app/AddOnComposer/AddOnComposer.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.storagemanager",
+    "packageName": "com.android.storagemanager",
+    "processName": "com.android.storagemanager",
+    "sourceDir": "/system/system_ext/priv-app/StorageManager/StorageManager.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.scloud",
+    "packageName": "com.samsung.android.scloud",
+    "processName": "com.samsung.android.scloud",
+    "sourceDir": "/data/app/~~ER7SmSZ73aNC_OHVwtDaPA==/com.samsung.android.scloud-yERH8yZd5dnPYk34tckT8g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.app.soundpicker",
+    "packageName": "com.samsung.android.app.soundpicker",
+    "processName": "com.samsung.android.app.soundpicker",
+    "sourceDir": "/system/app/SoundPicker_S/SoundPicker_S.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.sharelive",
+    "packageName": "com.samsung.android.app.sharelive",
+    "processName": "com.samsung.android.app.sharelive",
+    "sourceDir": "/data/app/~~ou42M8cqg7s6eGtEXmOAbA==/com.samsung.android.app.sharelive-P4aq9tQxcBrFisT25A3aGQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.app.RilErrorNotifier",
+    "packageName": "com.sec.app.RilErrorNotifier",
+    "processName": "com.sec.app.RilErrorNotifier",
+    "sourceDir": "/system/priv-app/PhoneErrService/PhoneErrService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.spayfw",
+    "packageName": "com.samsung.android.spayfw",
+    "processName": "com.samsung.android.spayfw",
+    "sourceDir": "/data/app/~~YQrj-4V3AQ7e7E7p-jqOxQ==/com.samsung.android.spayfw-sCP2j9NljalTza8oPsPA0Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.bookmarkprovider",
+    "packageName": "com.android.bookmarkprovider",
+    "processName": "com.android.bookmarkprovider",
+    "sourceDir": "/system/app/BookmarkProvider/BookmarkProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.settings",
+    "packageName": "com.android.settings",
+    "processName": "com.android.settings",
+    "sourceDir": "/system/priv-app/SecSettings/SecSettings.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.app.newtrim",
+    "packageName": "com.samsung.app.newtrim",
+    "processName": "com.samsung.app.newtrim",
+    "sourceDir": "/data/app/~~gz7yplMreGlQ5yR5ygUyjA==/com.samsung.app.newtrim-704Nyh3vN0Yc5AEuVcivTQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.wolfram.android.alpha",
+    "packageName": "com.wolfram.android.alpha",
+    "processName": "com.wolfram.android.alpha",
+    "sourceDir": "/data/app/~~5nh7n3QZYfgFO3UsWrw1Tg==/com.wolfram.android.alpha-ZNUGld4sYpV5YAPwzPLGXw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.dsms",
+    "packageName": "com.samsung.android.dsms",
+    "processName": "com.samsung.android.dsms",
+    "sourceDir": "/system/app/DsmsAPK/DsmsAPK.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.lool",
+    "packageName": "com.samsung.android.lool",
+    "processName": "com.samsung.android.lool",
+    "sourceDir": "/data/app/~~LibGLhbCdMCl3Gn8CkCxQw==/com.samsung.android.lool-s18NC5eAQmjqsE-4fjIpJQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.scpm",
+    "packageName": "com.samsung.android.scpm",
+    "processName": "com.samsung.android.scpm",
+    "sourceDir": "/system/priv-app/SCPMAgent/SCPMAgent.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.spay",
+    "packageName": "com.samsung.android.spay",
+    "processName": "com.samsung.android.spay",
+    "sourceDir": "/data/app/~~vQHvNrdfV-wCTGCnyCQqVg==/com.samsung.android.spay-y9LPjPAKT58UobjXJqIVrg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.fitbit.FitbitMobile",
+    "packageName": "com.fitbit.FitbitMobile",
+    "processName": "com.fitbit.FitbitMobile",
+    "sourceDir": "/data/app/~~49B3xwnTJA_rlKu7o2Q1ug==/com.fitbit.FitbitMobile-4zKDRajMm1UewXrPPHvP0w==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.app.notes",
+    "packageName": "com.samsung.android.app.notes",
+    "processName": "com.samsung.android.app.notes",
+    "sourceDir": "/data/app/~~3MAYQInIqW3GcdKM489_JA==/com.samsung.android.app.notes-0cUkZRlMTYCu2FgWCUuvug==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.bluetoothtest",
+    "packageName": "com.sec.android.app.bluetoothtest",
+    "processName": "com.sec.android.app.bluetoothtest",
+    "sourceDir": "/system/app/BluetoothTest/BluetoothTest.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.sdhms",
+    "packageName": "com.sec.android.sdhms",
+    "processName": "com.sec.android.sdhms",
+    "sourceDir": "/system/priv-app/SamsungDeviceHealthManagerService/SamsungDeviceHealthManagerService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.spage",
+    "packageName": "com.samsung.android.app.spage",
+    "processName": "com.samsung.android.app.spage",
+    "sourceDir": "/data/app/~~ixoix0kkEgRGRqBQM3FH4w==/com.samsung.android.app.spage-3wlyxgzadYF3gsAYJYEkGQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.mimage.avatarstickers",
+    "packageName": "com.sec.android.mimage.avatarstickers",
+    "processName": "com.sec.android.mimage.avatarstickers",
+    "sourceDir": "/system/priv-app/AvatarEmojiSticker_S/AvatarEmojiSticker_S.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.knox.analytics.uploader",
+    "packageName": "com.samsung.android.knox.analytics.uploader",
+    "processName": "com.samsung.android.knox.analytics.uploader",
+    "sourceDir": "/system/priv-app/knoxanalyticsagent/knoxanalyticsagent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.sm.policy",
+    "packageName": "com.samsung.android.sm.policy",
+    "processName": "com.samsung.android.sm.policy",
+    "sourceDir": "/system/app/SCPMClient/SCPMClient.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.emergencylauncher",
+    "packageName": "com.sec.android.emergencylauncher",
+    "processName": "com.sec.android.emergencylauncher",
+    "sourceDir": "/system/app/EmergencyLauncher/EmergencyLauncher.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.localeoverlaymanager",
+    "packageName": "com.samsung.android.localeoverlaymanager",
+    "processName": "com.samsung.android.localeoverlaymanager",
+    "sourceDir": "/system/priv-app/LocaleOverlayManager/LocaleOverlayManager.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/au.gov.act.health.checkin",
+    "packageName": "au.gov.act.health.checkin",
+    "processName": "au.gov.act.health.checkin",
+    "sourceDir": "/data/app/~~R56VGForK2l89X5zBVB0LA==/au.gov.act.health.checkin-_YQ33tbgEqaVUSMtYrLgrw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.projection.gearhead",
+    "packageName": "com.google.android.projection.gearhead",
+    "processName": "com.google.android.projection.gearhead:shared",
+    "sourceDir": "/data/app/~~WJKCWBQjKlpFxwxboiiGGA==/com.google.android.projection.gearhead-mZnr19rStyQjNjbjBTgEUA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.hearingadjust",
+    "packageName": "com.sec.hearingadjust",
+    "processName": "com.sec.hearingadjust",
+    "sourceDir": "/system/priv-app/Hearingdro_S/Hearingdro_S.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.apps.tasks",
+    "packageName": "com.google.android.apps.tasks",
+    "processName": "com.google.android.apps.tasks",
+    "sourceDir": "/data/app/~~VTp50XBiIwMXqsgof3X9hg==/com.google.android.apps.tasks-YL5VU82kZiQQYZuI5p2Bfw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.apps.turbo",
+    "packageName": "com.google.android.apps.turbo",
+    "processName": "com.google.android.apps.turbo",
+    "sourceDir": "/data/app/~~1mDHJN7HDwfeBNxGoYWaTA==/com.google.android.apps.turbo-L0zeg2tV7dGM5gPzXXM9Sw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.bluelightfilter",
+    "packageName": "com.samsung.android.bluelightfilter",
+    "processName": "com.samsung.android.bluelightfilter",
+    "sourceDir": "/system/priv-app/BlueLightFilter/BlueLightFilter.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "9",
+    "dataDir": "/data/user/0/com.samsung.android.bbc.bbcagent",
+    "packageName": "com.samsung.android.bbc.bbcagent",
+    "processName": "com.samsung.android.bbc.bbcagent",
+    "sourceDir": "/system/app/BBCAgent/BBCAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.visionintelligence",
+    "packageName": "com.samsung.android.visionintelligence",
+    "processName": "com.samsung.android.visionintelligence",
+    "sourceDir": "/system/app/VisionIntelligence3.7/VisionIntelligence3.7.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.app.earphonetypec",
+    "packageName": "com.samsung.android.app.earphonetypec",
+    "processName": "com.samsung.android.app.earphonetypec",
+    "sourceDir": "/data/app/~~SeXK_Qf4QgJljNNJy8xTdw==/com.samsung.android.app.earphonetypec-UiOYLjZ8g06SpNrr-A6K7A==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.singletake.service",
+    "packageName": "com.samsung.android.singletake.service",
+    "processName": "com.samsung.android.singletake.service",
+    "sourceDir": "/system/priv-app/SingleTakeService/SingleTakeService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.callbgprovider",
+    "packageName": "com.samsung.android.callbgprovider",
+    "processName": "com.samsung.android.callbgprovider",
+    "sourceDir": "/system/priv-app/CallBGProvider/CallBGProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.knox.vpn.proxyhandler",
+    "packageName": "com.knox.vpn.proxyhandler",
+    "processName": "com.knox.vpn.proxyhandler",
+    "sourceDir": "/system/priv-app/knoxvpnproxyhandler/knoxvpnproxyhandler.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.apps.chromecast.app",
+    "packageName": "com.google.android.apps.chromecast.app",
+    "processName": "com.google.android.apps.chromecast.app",
+    "sourceDir": "/data/app/~~XEC9zfje6JUJKxckM4eCBg==/com.google.android.apps.chromecast.app-kKYJegYpWERuEYnp01d0jQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.cts.ctsshim",
+    "packageName": "com.android.cts.ctsshim",
+    "processName": "com.android.cts.ctsshim",
+    "sourceDir": "/apex/com.android.apex.cts.shim/app/CtsShim/CtsShim.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.oda.service",
+    "packageName": "com.samsung.oda.service",
+    "processName": "com.samsung.oda.service",
+    "sourceDir": "/system/priv-app/OdaService/OdaService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.booking",
+    "packageName": "com.booking",
+    "processName": "com.booking",
+    "sourceDir": "/data/app/~~5asRTyD0Lyrx_VUqKSsu8g==/com.booking-EW5-2BfDXi5ODeQVf6Xabg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.livestickers",
+    "packageName": "com.samsung.android.livestickers",
+    "processName": "com.samsung.android.livestickers",
+    "sourceDir": "/data/app/~~pdBBEg1npllytDRrYptbag==/com.samsung.android.livestickers-aovUU7OdfUQtgtTt3MUn-Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "9",
+    "dataDir": "/data/user/0/com.samsung.android.app.watchmanagerstub",
+    "packageName": "com.samsung.android.app.watchmanagerstub",
+    "processName": "com.samsung.android.app.watchmanagerstub",
+    "sourceDir": "/system/app/GearManagerStub/GearManagerStub.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.svcagent",
+    "packageName": "com.samsung.android.svcagent",
+    "processName": "com.samsung.android.svcagent",
+    "sourceDir": "/system/priv-app/SVCAgent/SVCAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.modulemetadata.forframework",
+    "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+    "processName": "com.google.android.overlay.modules.modulemetadata.forframework",
+    "sourceDir": "/product/overlay/ModuleMetadataGoogleOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.mhs.smarttethering",
+    "packageName": "com.sec.mhs.smarttethering",
+    "processName": "com.sec.mhs.smarttethering",
+    "sourceDir": "/system/app/SmartTethering/SmartTethering.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.svoiceime",
+    "packageName": "com.samsung.android.svoiceime",
+    "processName": "com.samsung.android.svoiceime",
+    "sourceDir": "/system/priv-app/SVoiceIME/SVoiceIME.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.mateagent",
+    "packageName": "com.samsung.android.mateagent",
+    "processName": "com.samsung.android.mateagent",
+    "sourceDir": "/data/app/~~nBEFmvbjiBhSddmfS5XFsA==/com.samsung.android.mateagent-V22B2PlQebicsWyQLoFwSg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.networkdiagnostic",
+    "packageName": "com.samsung.android.networkdiagnostic",
+    "processName": "com.samsung.android.networkdiagnostic",
+    "sourceDir": "/system/priv-app/NetworkDiagnostic/NetworkDiagnostic.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.aircommand",
+    "packageName": "com.samsung.android.service.aircommand",
+    "processName": "com.samsung.android.service.aircommand",
+    "sourceDir": "/data/app/~~Acn-vyimQ9j442tJsKXB2A==/com.samsung.android.service.aircommand-A8iO_8QBC0EC2I9a-F7C_Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.shortcutbackupservice",
+    "packageName": "com.samsung.android.shortcutbackupservice",
+    "processName": "com.samsung.android.shortcutbackupservice",
+    "sourceDir": "/system/app/ShortcutBackupService/ShortcutBackupService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.android.mcfserver",
+    "packageName": "com.samsung.android.mcfserver",
+    "processName": "com.samsung.android.mcfserver",
+    "sourceDir": "/system/priv-app/SamsungMultiConnectivity/SamsungMultiConnectivity.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.vpndialogs",
+    "packageName": "com.android.vpndialogs",
+    "processName": "com.android.vpndialogs",
+    "sourceDir": "/system/priv-app/VpnDialogs/VpnDialogs.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.ucs.agent.ese",
+    "packageName": "com.samsung.ucs.agent.ese",
+    "processName": "com.samsung.ucs.agent.ese",
+    "sourceDir": "/system/app/ESEServiceAgent/ESEServiceAgent.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.soundcloud.android",
+    "packageName": "com.soundcloud.android",
+    "processName": "com.soundcloud.android",
+    "sourceDir": "/data/app/~~vtxN8-ouLWZRxDJc7iKlOg==/com.soundcloud.android-Ejk2UUKf-2MTCOYN7AHu9Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.networkstack.tethering.overlay",
+    "packageName": "com.samsung.android.networkstack.tethering.overlay",
+    "processName": "com.samsung.android.networkstack.tethering.overlay",
+    "sourceDir": "/vendor/overlay/TetheringOverlay_Gsi/TetheringOverlay_Gsi.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.waterplugin",
+    "packageName": "com.samsung.android.waterplugin",
+    "processName": "com.samsung.android.waterplugin",
+    "sourceDir": "/data/app/~~0IzgZ9JYe1imRwiEsAKcIA==/com.samsung.android.waterplugin-4ZGksUuPjArpWG4MYW91jQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/nz.co.vista.android.movie",
+    "packageName": "nz.co.vista.android.movie",
+    "processName": "nz.co.vista.android.movie",
+    "sourceDir": "/data/app/~~ZXbMD3aoUCqM82wPCFHYwA==/nz.co.vista.android.movie-6kHB5vflRA_PA_skClS3eQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.keep",
+    "packageName": "com.google.android.keep",
+    "processName": "com.google.android.keep",
+    "sourceDir": "/data/app/~~pc_teceJTCU1xyh70vNHMg==/com.google.android.keep-VvCMj12Xz4O_njmAwKbgOA==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.ebay.gumtree.au",
+    "packageName": "com.ebay.gumtree.au",
+    "processName": "com.ebay.gumtree.au",
+    "sourceDir": "/data/app/~~gvplFvzC3RhnNCd-0OhVJQ==/com.ebay.gumtree.au-WgS8L_m19FQXAq0POYW4qQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.providers.contacts",
+    "packageName": "com.samsung.android.providers.contacts",
+    "processName": "android.process.acore",
+    "sourceDir": "/system/priv-app/SamsungContactsProvider/SamsungContactsProvider.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.hotelscombined.mobile",
+    "packageName": "com.hotelscombined.mobile",
+    "processName": "com.hotelscombined.mobile",
+    "sourceDir": "/data/app/~~SDcPNNqqPZSxTJ4eHUpXiA==/com.hotelscombined.mobile-8--pRlXVf-PyXGmLU-wm9Q==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.phone",
+    "packageName": "com.android.phone",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/priv-app/TeleService/TeleService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.shell",
+    "packageName": "com.android.shell",
+    "processName": "com.android.shell",
+    "sourceDir": "/system/priv-app/Shell/Shell.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.cmfa.AuthTouch",
+    "packageName": "com.samsung.cmfa.AuthTouch",
+    "processName": "com.samsung.cmfa.AuthTouch",
+    "sourceDir": "/system/priv-app/AuthFactorTouchService/AuthFactorTouchService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.wallpaperbackup",
+    "packageName": "com.android.wallpaperbackup",
+    "processName": "system",
+    "sourceDir": "/system/app/WallpaperBackup/WallpaperBackup.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.providers.blockednumber",
+    "packageName": "com.android.providers.blockednumber",
+    "processName": "android.process.acore",
+    "sourceDir": "/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.omcagent",
+    "packageName": "com.samsung.android.app.omcagent",
+    "processName": "com.samsung.android.app.omcagent",
+    "sourceDir": "/system/priv-app/OMCAgent5/OMCAgent5.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.microsoft.powerbim",
+    "packageName": "com.microsoft.powerbim",
+    "processName": "com.microsoft.powerbim",
+    "sourceDir": "/data/app/~~orqEgclyaEwz1rrKQvNsrg==/com.microsoft.powerbim-S7lLegMqXZQoCu5IIuafxw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.hiya.star",
+    "packageName": "com.hiya.star",
+    "processName": "com.hiya.star",
+    "sourceDir": "/system/app/HiyaService/HiyaService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.google.android.overlay.modules.cellbroadcastservice",
+    "packageName": "com.google.android.overlay.modules.cellbroadcastservice",
+    "processName": "com.google.android.overlay.modules.cellbroadcastservice",
+    "sourceDir": "/product/overlay/CellBroadcastServiceOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.providers.userdictionary",
+    "packageName": "com.android.providers.userdictionary",
+    "processName": "android.process.acore",
+    "sourceDir": "/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.enterprise.knox.cloudmdm.smdms",
+    "packageName": "com.sec.enterprise.knox.cloudmdm.smdms",
+    "processName": "com.sec.enterprise.knox.cloudmdm.smdms",
+    "sourceDir": "/system/app/UniversalMDMClient/UniversalMDMClient.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.apps.carrier.carrierwifi",
+    "packageName": "com.google.android.apps.carrier.carrierwifi",
+    "processName": "com.google.android.apps.carrier.carrierwifi",
+    "sourceDir": "/product/priv-app/CarrierWifi/CarrierWifi.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.emergency",
+    "packageName": "com.android.emergency",
+    "processName": "com.android.emergency",
+    "sourceDir": "/system/system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.wssyncmldm",
+    "packageName": "com.wssyncmldm",
+    "processName": "com.wssyncmldm",
+    "sourceDir": "/system/priv-app/FotaAgent/FotaAgent.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.hotspot2.osulogin",
+    "packageName": "com.android.hotspot2.osulogin",
+    "processName": "com.android.hotspot2.osulogin",
+    "sourceDir": "/apex/com.android.wifi/app/OsuLogin/OsuLogin.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.azure.authenticator",
+    "packageName": "com.azure.authenticator",
+    "processName": "com.azure.authenticator",
+    "sourceDir": "/data/app/~~CKRnSiPjiBNkVvwWAiOGSQ==/com.azure.authenticator-MVBREKiEPbETyLF2fxUdOA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user/0/com.samsung.ims.smk",
+    "packageName": "com.samsung.ims.smk",
+    "processName": "com.samsung.ims.smk",
+    "sourceDir": "/system/app/SimMobilityKit/SimMobilityKit.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "S",
+    "dataDir": "/data/user/0/com.google.android.gms.location.history",
+    "packageName": "com.google.android.gms.location.history",
+    "processName": "com.google.android.gms.location.history",
+    "sourceDir": "/product/app/GoogleLocationHistory/GoogleLocationHistory.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.systemui.navbar.gestural",
+    "packageName": "com.android.internal.systemui.navbar.gestural",
+    "processName": "com.android.internal.systemui.navbar.gestural",
+    "sourceDir": "/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.location.fused",
+    "packageName": "com.android.location.fused",
+    "processName": "system",
+    "sourceDir": "/system/priv-app/FusedLocation/FusedLocation.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.appsedge",
+    "packageName": "com.samsung.android.app.appsedge",
+    "processName": "com.samsung.android.app.appsedge",
+    "sourceDir": "/data/app/~~YtRIvd7JY16JWoRq_-EWBA==/com.samsung.android.app.appsedge-VM2GyHyNfZcHnwbqeAXakg==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.samsungpassautofill",
+    "packageName": "com.samsung.android.samsungpassautofill",
+    "processName": "com.samsung.android.samsungpassautofill",
+    "sourceDir": "/data/app/~~S2TngqAUuZ8qIdxCmowVtA==/com.samsung.android.samsungpassautofill-G4V0BZ3rOsMJt0TzF3QoSA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.sec.epdg",
+    "packageName": "com.sec.epdg",
+    "processName": "com.sec.epdg",
+    "sourceDir": "/system/priv-app/EpdgService/EpdgService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.systemui",
+    "packageName": "com.android.systemui",
+    "processName": "com.android.systemui",
+    "sourceDir": "/system/system_ext/priv-app/SystemUI/SystemUI.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.personalization",
+    "packageName": "com.sec.android.app.personalization",
+    "processName": "com.sec.android.app.personalization",
+    "sourceDir": "/system/app/Personalization/Personalization.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.factory.cameralyzer",
+    "packageName": "com.sec.factory.cameralyzer",
+    "processName": "com.sec.factory.cameralyzer",
+    "sourceDir": "/system/app/Cameralyzer/Cameralyzer.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.bluetoothmidiservice",
+    "packageName": "com.android.bluetoothmidiservice",
+    "processName": "com.android.bluetoothmidiservice",
+    "sourceDir": "/system/app/BluetoothMidiService/BluetoothMidiService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.Psyonix.RL2D",
+    "packageName": "com.Psyonix.RL2D",
+    "processName": "com.Psyonix.RL2D",
+    "sourceDir": "/data/app/~~eOUikPgOaa4471dMYvCNVg==/com.Psyonix.RL2D-3EXkCJGLkBUyr82mwtTzyQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.sdk.handwriting",
+    "packageName": "com.samsung.android.sdk.handwriting",
+    "processName": "com.samsung.android.sdk.handwriting",
+    "sourceDir": "/system/app/HandwritingService/HandwritingService.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.ebay.mobile",
+    "packageName": "com.ebay.mobile",
+    "processName": "com.ebay.mobile",
+    "sourceDir": "/data/app/~~JmPUl5ANagPLu5790bKDEA==/com.ebay.mobile-ankvyzFW6wrlSUifqXAt4A==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.adobe.lrmobile",
+    "packageName": "com.adobe.lrmobile",
+    "processName": "com.adobe.lrmobile",
+    "sourceDir": "/data/app/~~Aj2vrWxk6gm2jvkLppdKbw==/com.adobe.lrmobile-O0h0-8ccskUasZCZdU6y5g==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.aasaservice",
+    "packageName": "com.samsung.aasaservice",
+    "processName": "com.samsung.aasaservice",
+    "sourceDir": "/system/app/AASAservice/AASAservice.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.service.pentastic",
+    "packageName": "com.samsung.android.service.pentastic",
+    "processName": "com.samsung.android.service.pentastic",
+    "sourceDir": "/system/app/AirGlance/AirGlance.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.smartsuggestions",
+    "packageName": "com.samsung.android.smartsuggestions",
+    "processName": "com.samsung.android.smartsuggestions",
+    "sourceDir": "/system/priv-app/SamsungSmartSuggestions/SamsungSmartSuggestions.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.traceur",
+    "packageName": "com.android.traceur",
+    "processName": "com.android.traceur",
+    "sourceDir": "/system/priv-app/Traceur/Traceur.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.google.android.cellbroadcastreceiver",
+    "packageName": "com.google.android.cellbroadcastreceiver",
+    "processName": "com.google.android.cellbroadcastreceiver",
+    "sourceDir": "/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@SC/GoogleCellBroadcastApp.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.allshare.service.mediashare",
+    "packageName": "com.samsung.android.allshare.service.mediashare",
+    "processName": "com.samsung.android.allshare.service.mediashare",
+    "sourceDir": "/system/app/AllshareMediaShare/AllshareMediaShare.apk"
+  },
+  {
+    "appType": "User",
+    "dataDir": "/data/user/0/com.cpuid.cpu_z",
+    "packageName": "com.cpuid.cpu_z",
+    "processName": "com.cpuid.cpu_z",
+    "sourceDir": "/data/app/~~uyySsaksBeEiKj2-PJ41gQ==/com.cpuid.cpu_z-meU976OFWjZoPFbN80juzQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.phone.auto_generated_rro_product__",
+    "packageName": "com.android.phone.auto_generated_rro_product__",
+    "processName": "com.android.phone.auto_generated_rro_product__",
+    "sourceDir": "/product/overlay/TeleService__auto_generated_rro_product.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.providers.factory",
+    "packageName": "com.samsung.android.providers.factory",
+    "processName": "com.samsung.android.providers.factory",
+    "sourceDir": "/system/priv-app/FactoryTestProvider/FactoryTestProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.pregpudriver.ex2100",
+    "packageName": "com.samsung.pregpudriver.ex2100",
+    "processName": "com.samsung.pregpudriver.ex2100",
+    "sourceDir": "/system/priv-app/DevGPUDriver-EX2100/DevGPUDriver-EX2100.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.android.provider.emergencymode",
+    "packageName": "com.sec.android.provider.emergencymode",
+    "processName": "com.sec.android.provider.emergencymode",
+    "sourceDir": "/system/app/EmergencyProvider/EmergencyProvider.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.cameraxservice",
+    "packageName": "com.samsung.android.cameraxservice",
+    "processName": "com.samsung.android.cameraxservice",
+    "sourceDir": "/system/priv-app/sec_camerax_service/sec_camerax_service.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/android.auto_generated_rro_product__",
+    "packageName": "android.auto_generated_rro_product__",
+    "processName": "android.auto_generated_rro_product__",
+    "sourceDir": "/product/overlay/framework-res__auto_generated_rro_product.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "UpsideDownCake",
+    "dataDir": "/data/user/0/com.google.android.play.games",
+    "packageName": "com.google.android.play.games",
+    "processName": "com.google.android.play.games",
+    "sourceDir": "/data/app/~~ceNRDbFG3ifmQtbHgL_m9A==/com.google.android.play.games-hjSKBNlwKz0BSJnBJ7B0Ng==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.sec.android.app.applinker",
+    "packageName": "com.sec.android.app.applinker",
+    "processName": "com.sec.android.app.applinker",
+    "sourceDir": "/system/app/AppLinker/AppLinker.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user_de/0/com.samsung.android.cidmanager",
+    "packageName": "com.samsung.android.cidmanager",
+    "processName": "com.samsung.android.cidmanager",
+    "sourceDir": "/system/priv-app/CIDManager/CIDManager.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.sec.android.app.camera",
+    "packageName": "com.sec.android.app.camera",
+    "processName": "com.sec.android.app.camera",
+    "sourceDir": "/system/priv-app/SamsungCamera/SamsungCamera.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.ryan.antivirusapp",
+    "packageName": "com.ryan.antivirusapp",
+    "processName": "com.ryan.antivirusapp",
+    "sourceDir": "/data/app/~~VX3j72ruUpS4UXh6-f1IbQ==/com.ryan.antivirusapp-ufeNDtRRH-3w1n9CFGdsmw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.android.bluetooth",
+    "packageName": "com.android.bluetooth",
+    "processName": "com.android.bluetooth",
+    "sourceDir": "/system/app/Bluetooth/Bluetooth.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.clipboardedge",
+    "packageName": "com.samsung.android.app.clipboardedge",
+    "processName": "com.samsung.android.app.clipboardedge",
+    "sourceDir": "/system/app/ClipboardEdge/ClipboardEdge.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.getpocketbook",
+    "packageName": "com.getpocketbook",
+    "processName": "com.getpocketbook",
+    "sourceDir": "/data/app/~~-YP5NAIRNmI7hiC2cI94kg==/com.getpocketbook-5GAMeVkTelRMUA3PkEL2RQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.ipservice",
+    "packageName": "com.samsung.ipservice",
+    "processName": "com.samsung.ipservice",
+    "sourceDir": "/system/priv-app/IPService/IPService.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.sec.android.app.magnifier",
+    "packageName": "com.sec.android.app.magnifier",
+    "processName": "com.sec.android.app.magnifier",
+    "sourceDir": "/system/priv-app/SamsungMagnifier3/SamsungMagnifier3.apk"
+  },
+  {
+    "appType": "System",
+    "dataDir": "/data/user/0/com.sec.android.widgetapp.webmanual",
+    "packageName": "com.sec.android.widgetapp.webmanual",
+    "processName": "com.sec.android.widgetapp.webmanual",
+    "sourceDir": "/system/app/WebManual/WebManual.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user_de/0/com.samsung.sec.android.application.csc",
+    "packageName": "com.samsung.sec.android.application.csc",
+    "processName": "com.android.phone",
+    "sourceDir": "/system/priv-app/CSC/CSC.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.qingniu.renpho",
+    "packageName": "com.qingniu.renpho",
+    "processName": "com.qingniu.renpho",
+    "sourceDir": "/data/app/~~nDvqgDf5FfwyIJb9XsmTcg==/com.qingniu.renpho-MLpZmOEzu3khX-bMGvg2jg==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.disney.disneyplus",
+    "packageName": "com.disney.disneyplus",
+    "processName": "com.disney.disneyplus",
+    "sourceDir": "/data/app/~~hH21xdet1c5oq6KfRfz75A==/com.disney.disneyplus-jQBM5n1FhF4Wum1tZwrGKQ==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.samsung.android.sdm.config",
+    "packageName": "com.samsung.android.sdm.config",
+    "processName": "com.samsung.android.sdm.config",
+    "sourceDir": "/system/priv-app/SDMConfig/SDMConfig.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.app.dressroom",
+    "packageName": "com.samsung.android.app.dressroom",
+    "processName": "com.samsung.android.app.dressroom",
+    "sourceDir": "/system/priv-app/DressRoom/DressRoom.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/au.gov.ato.mygovid.droid",
+    "packageName": "au.gov.ato.mygovid.droid",
+    "processName": "au.gov.ato.mygovid.droid",
+    "sourceDir": "/data/app/~~lyBNnNih0sffdnZCFifXPg==/au.gov.ato.mygovid.droid-AUC4Y-q82lLc3ToVoy1q9A==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.android.internal.systemui.navbar.gestural_narrow_back",
+    "packageName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+    "processName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+    "sourceDir": "/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.app.dofviewer",
+    "packageName": "com.samsung.android.app.dofviewer",
+    "processName": "com.samsung.android.app.dofviewer",
+    "sourceDir": "/system/priv-app/DualOutFocusViewer_S/DualOutFocusViewer_S.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.example.food_app",
+    "packageName": "com.example.food_app",
+    "processName": "com.example.food_app",
+    "sourceDir": "/data/app/~~x3efHIk96rTodrQM9Aarlg==/com.example.food_app-Xn4fdC4vXrbsU9uB8VOZiQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.microsoft.teams",
+    "packageName": "com.microsoft.teams",
+    "processName": "com.microsoft.teams",
+    "sourceDir": "/data/app/~~Mt_8K2jtpFpj5Ah72brg4A==/com.microsoft.teams-UXH46Q6yDPAFoqZqG_H3jQ==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/com.microsoft.todos",
+    "packageName": "com.microsoft.todos",
+    "processName": "com.microsoft.todos",
+    "sourceDir": "/data/app/~~tjz_SJwHT9EY5OPdSyRQDQ==/com.microsoft.todos-QkxbiEmfLTcXy9I51FiN4A==/base.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.videolist",
+    "packageName": "com.samsung.android.videolist",
+    "processName": "com.samsung.android.video",
+    "sourceDir": "/data/app/~~r3NqGoHFofl9QAHxOCTySQ==/com.samsung.android.videolist-N-G3ZG_yxkOBO_OClS-_VA==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "10",
+    "dataDir": "/data/user/0/com.samsung.android.tapack.authfw",
+    "packageName": "com.samsung.android.tapack.authfw",
+    "processName": "com.samsung.android.tapack.authfw",
+    "sourceDir": "/system/priv-app/TaPackAuthFw/TaPackAuthFw.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.snapchat.android",
+    "packageName": "com.snapchat.android",
+    "processName": "com.snapchat.android",
+    "sourceDir": "/data/app/~~rBYeI57Flk1jwF_2ovLr8g==/com.snapchat.android-XlU6ZVYACvxkuifmaZ-Mgw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.mcfds",
+    "packageName": "com.samsung.android.mcfds",
+    "processName": "com.samsung.android.mcfds",
+    "sourceDir": "/system/priv-app/MCFDeviceSync/MCFDeviceSync.apk"
+  },
+  {
+    "appType": "User",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.inputmethod.latin",
+    "packageName": "com.google.android.inputmethod.latin",
+    "processName": "com.google.android.inputmethod.latin",
+    "sourceDir": "/data/app/~~wL5uxR0vwerYJ91_lh3cIg==/com.google.android.inputmethod.latin-tQM7gM3sUBA3qVRgdumx9w==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "12",
+    "dataDir": "/data/user/0/com.samsung.android.video",
+    "packageName": "com.samsung.android.video",
+    "processName": "com.samsung.android.video",
+    "sourceDir": "/data/app/~~C-Cz1G5hMOYX5XR5GyRFrg==/com.samsung.android.video-oN0SM6oTJsvtN4sMXD2PUw==/base.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "11",
+    "dataDir": "/data/user/0/android.auto_generated_rro_vendor__",
+    "packageName": "android.auto_generated_rro_vendor__",
+    "processName": "android.auto_generated_rro_vendor__",
+    "sourceDir": "/vendor/overlay/framework-res__auto_generated_rro_vendor.apk"
+  },
+  {
+    "appType": "System",
+    "compileSdkVersionCodename": "Tiramisu",
+    "dataDir": "/data/user/0/com.google.android.apps.restore",
+    "packageName": "com.google.android.apps.restore",
+    "processName": "com.google.android.apps.restore",
+    "sourceDir": "/product/priv-app/GoogleRestore/GoogleRestore.apk"
+  }
+]
