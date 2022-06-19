@@ -32,6 +32,7 @@ module.exports = {
         'admin-red': '#F44236',
         'admin-red-dark': '#d2382d',
         'admin-blue': '#04A9F5',
+        'admin-blue-dark': '#038fd0',
         'admin-green': '#1DE9B6',
         'admin-purple': '#9297D4'
       }

@@ -4,9 +4,9 @@ import DataTable from "./Components/DataTable/DataTable";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {
     faChartLine,
-    faClock,
-    faCog,
-    faHome, faMagnifyingGlass,
+    faClock, faClose,
+    faCog, faCross,
+    faHome, faInfo, faMagnifyingGlass,
     faMobile,
     faMobileAndroidAlt,
     faRefresh,
@@ -16,6 +16,9 @@ import {faAndroid} from "@fortawesome/free-brands-svg-icons";
 import SideButton from "./Components/SideButton";
 import {useState} from "react";
 import DataCard from "./Components/DataCard";
+import {child, getDatabase, ref, remove, get} from "firebase/database";
+import {useNavigate} from "react-router-dom"
+import {Transition} from '@headlessui/react'
 
 const firebaseConfig = {
     apiKey: "AIzaSyAsb9BRX0hWovf0ETi6KsRi1vDIlPsGla8",
@@ -33,6 +36,31 @@ function App() {
 
     const [count, setCount] = useState(0);
     const [lastData, setLastDate] = useState();
+    const [page, setPage] = useState(1); // 1 = Home, 2 = Device
+
+    const [activeData, setActiveData] = useState(); // The active device to search
+
+    const [isDel, setIsDel] = useState(false);
+
+    const navigate = useNavigate();
+
+    const getDevice = id => {
+        let value = ''
+        const dbRef = ref(getDatabase());
+        get(child(dbRef, `Devices/${id}`))
+            .then(snapshot => {
+                if (snapshot.exists()) {
+                    console.log("Win")
+                    console.log(snapshot.val());
+                    navigate.push('devices', snapshot.val())
+                } else {
+                    console.log("Error")
+                }
+            }).catch(error => {
+            console.error(error);
+        })
+    }
+
 
     const pull_data = (data) => {
         setCount(data)
@@ -51,10 +79,6 @@ function App() {
                     Settings
                 </button>
             </div>
-            {/*<div*/}
-            {/*    className="absolute top-0 left-0 w-screen flex h-16 z-10 bg-gradient-to-bl from-dark-blue border-b-white border-b-4 to-blue-900 items-center justify-between drop-shadow-xl">*/}
-            {/*    <h1 className="text-2xl text-dark-blue border-l-dark-blue ml-24 text-white">Device Enumeration</h1>*/}
-            {/*</div>*/}
 
             {/* Navbar + Dashboard */}
             <div className="flex">
@@ -62,7 +86,7 @@ function App() {
                     <h1 className="text-xl p-8 border-b border-b-admin-slate-dark">
                         <FontAwesomeIcon className="mr-2" icon={faVirus}/>
                         Mock Anti-virus Dashboard</h1>
-                    <p className="px-4 py-2 mt-4 text-admin-white bold text-sm">COMPONENTS</p>
+                    <p className="px-4 py-2 mt-4 text-admin-white bold text-sm">PAGES</p>
                     <SideButton className="" name="Home" icon={faHome} selected/>
                     <SideButton name="Device List" icon={faTable}/>
                     <SideButton name="Active Device" icon={faMobile}/>
@@ -74,8 +98,10 @@ function App() {
                         Refresh
                     </button>
                     <button
+                        // todo: Add functionality
                         className="px-4 py-2 my-1 shadow-md bg-admin-red hover:bg-admin-red-dark transition duration-100 mx-4 rounded-lg">
-                        <FontAwesomeIcon className="mr-2" icon={faTrashCan}/>
+                        <FontAwesomeIcon
+                            className="mr-2" icon={faTrashCan}/>
                         Delete Data
                     </button>
                     <button
@@ -84,26 +110,63 @@ function App() {
                         App Download Link
                     </button>
 
+                    <p className="px-4 py-2 mt-4 text-admin-white bold text-sm">COMMANDS</p>
+
                     <div className="px-4 py-2 mt-2 flex flex-col bg-admin-slate-dark">
                         <span className="text-sm">Remove Single Device</span>
                         <div className="flex items-center">
-                            <input className="text-admin-slate-dark mx-2 my-2 px-4 py-2 rounded-md"
+                            <input id="removeSingleDevice"
+                                   className="text-admin-slate-dark mx-2 my-2 px-4 py-2 rounded-md"
                                    placeholder="Device ID"/>
                             <button
+                                onClick={() => {
+                                    const item = document.getElementById("removeSingleDevice").value;
+                                    const db = getDatabase();
+                                    remove(ref(db, "Devices/" + item)).then(() => {
+                                        setIsDel(true)
+                                    })
+                                }}
                                 className="w-10 h-10 shadow-md bg-admin-red hover:bg-admin-red-dark transition duration-100 rounded-lg">
                                 <FontAwesomeIcon icon={faTrashCan}/>
                             </button>
                         </div>
+
+                        <Transition
+                            show={isDel}
+                            enter="transition-opacity duration-200"
+                            enterFrom="opacity-0"
+                            enterTo="opacity-100"
+                            leave="transition-opacity duration-150"
+                            leaveFrom="opacity-100"
+                            leaveTo="opacity-0"
+                        >
+                            <div
+                                className={`flex items-center bg-admin-green transition text-white text-sm px-4 py-2 rounded-md`}
+                                role="alert">
+                                <FontAwesomeIcon className="mr-2 text-" icon={faInfo}/>
+                                <p>Device has been deleted</p>
+                                <FontAwesomeIcon onClick={()=>{setIsDel(false)}} className="ml-auto hover:cursor-pointer" icon={faClose}/>
+                            </div>
+                        </Transition>
+
                     </div>
 
-                    <div className="px-4 py-2 mb-2 flex flex-col bg-admin-slate-dark">
-                        <span className="text-sm">View Single Device<span className="text-xs ml-1">(sets active device)</span></span>
+                    <div className="px-4 py-2 mb-2 flex flex-col bg-admin-slate-dark transition ease-in">
+                        <span className="text-sm">View Single Device<span
+                            className="text-xs ml-1">(sets active device)</span></span>
                         <div className="flex items-center">
-                            <input className="mx-2 my-2 px-4 py-2 rounded-md" placeholder="Device ID"/>
+                            <input id="getDevicebyId" className="mx-2 my-2 px-4 py-2 rounded-md text-admin-slate-dark"
+                                   placeholder="Device ID"/>
+
                             <button
+                                onClick={() => {
+                                    const inputRef = document.getElementById("getDevicebyId").value;
+                                    getDevice(inputRef)
+                                }}
                                 className="w-10 h-10 shadow-md bg-admin-red hover:bg-admin-red-dark transition duration-100 rounded-lg">
                                 <FontAwesomeIcon icon={faMagnifyingGlass}/>
                             </button>
+
                         </div>
                     </div>
                     <SideButton className="mt-auto" name="Settings" icon={faCog}/>
@@ -124,7 +187,8 @@ function App() {
                             <div className="mt-4 text-admin-slate-dark">
                                 <h3 className="font-bold">QRG Commands</h3>
                                 <code className="mr-2">/></code>
-                                <code className="select-all">firebase --project device-enumeration database:remove</code>
+                                <code className="select-all">firebase --project device-enumeration
+                                    database:remove</code>
                             </div>
                         </div>
 

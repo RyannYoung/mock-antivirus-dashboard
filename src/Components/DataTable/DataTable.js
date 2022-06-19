@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 import * as PropTypes from "prop-types";
 import {Marker, Popup, TileLayer} from "leaflet/dist/leaflet-src.esm";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faClipboard, faMagnifyingGlass} from "@fortawesome/free-solid-svg-icons";
+import {faClipboard, faMagnifyingGlass, faRefresh} from "@fortawesome/free-solid-svg-icons";
 import {FilterTable} from "../FilterTable/FilterTable";
 
 function MapContainer(props) {
@@ -41,9 +41,6 @@ const DataTable = (props) => {
             const dataValList = [];
             for (let id in dataVals){
                 dataValList.push(dataVals[id]);
-
-                console.log(dataVals[id])
-
             }
             setDeviceCount(dataValList.length);
             setDataList(dataValList);
@@ -55,7 +52,26 @@ const DataTable = (props) => {
 
     // return the element
     return (
-        <div className="flex flex-col p-8 md:items-center lg:items-start  max-h-full overflow-hidden">
+        <div className="flex flex-col p-8 md:items-center lg:items-start  max-h-full overflow-hidden w-fit">
+
+            <div className="flex justify-between w-full items-center">
+                {/*todo: Search bar*/}
+                <input
+                    className="px-4 py-2 my-2 rounded-md shadow border-2 border-admin-slate"
+                    type="search"
+                    placeholder="Search table"
+                />
+
+
+                {/*todo: filter, refresh*/}
+                <div className="mx-4">
+                    <div className="rounded-full px-4 py-2 my-2 text-admin-white bg-admin-red hover:bg-admin-red-dark transition hover:cursor-pointer">
+                        <FontAwesomeIcon icon={faRefresh}/>
+                        <span className="ml-2">Refresh</span>
+                    </div>
+                </div>
+            </div>
+
 
             <table className="table-auto w-fit max-h-full shadow-md rounded-md bg-white overflow-hidden">
                 <thead className="rounded-md">
@@ -90,6 +106,8 @@ const DataTable = (props) => {
                         if(data?.snapshotData?.snapshotDate?.time > lastDate){
                             props.funcDate(data.snapshotData.snapshotDate.time)
                         }
+
+                        console.log(data);
                         data.uniqueId = key
 
                         return<tr className="text-center text-admin-slate">
@@ -131,6 +149,11 @@ const DataTable = (props) => {
 
                 </tbody>
             </table>
+
+            {/*todo: add page feature*/}
+            <div className="flex justify-center mt-2 text-admin-slate w-full w-full">
+                <p>Page 1 of 1</p>
+            </div>
         </div>
     );
 };
